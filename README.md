@@ -17,8 +17,8 @@ Exploratory data analyses for the CDC's Heat + Health Index (Sept. 2024)
   - 2018-2020 only
   - _Cross-state comparison data should probably be converted to per-capita rates and re-run_
 
-![WorkerDeath_Distro](https://github.com/user-attachments/assets/7d487b9e-1edb-44c6-81d3-235b410e9a6f)
-![WorkerDeath_OverTime_US](https://github.com/user-attachments/assets/0bb3949b-7835-4ccc-ac6d-5f530c664842)
-![WorkerDeath_Georgia](https://github.com/user-attachments/assets/9e054322-a1dc-4fee-a0af-61f3cfb3e46c)
-![WorkerDeaths_CrossState](https://github.com/user-attachments/assets/562639c3-5734-4711-bbaa-feb75587860a)
-![WorkerDeath_Top15](https://github.com/user-attachments/assets/46aab27b-c2c3-4a24-87ea-b4d9b4973104)
+![WorkerDeath_Distro](https://github.com/user-attachments/assets/159fd85b-2b1a-4021-b3b6-dae86b168a6a)
+![WorkerDeath_OverTime_US](https://github.com/user-attachments/assets/7efc0793-31e3-4555-a916-d4057addb0d6)
+![WorkerDeath_Georgia](https://github.com/user-attachments/assets/8e36be41-90d1-423b-99bb-5fb85ffa3645)
+![WorkerDeath_CrossState](https://github.com/user-attachments/assets/08eda04b-c161-4b5c-b0cb-844330a3fd37)
+![WorkerDeath_Top15](https://github.com/user-attachments/assets/603a0e54-244e-46f0-ad29-d80451612d3d)
