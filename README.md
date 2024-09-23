@@ -1,7 +1,7 @@
 # Exploratory data analyses for the CDC's Heat + Health Index (Sept. 2024)
 
 ### AvgWeeklyHeatIndex = Weekly Average Max Temperature
-  - https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7)
+  - https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7
   - Filtered to Georgia for this EDA
   - 2018-2024
   - _Want to run this over time, but unsure how to convert weekly data to something Python can use - also, some weeks are missing data and are just hashes_
@@ -15,10 +15,22 @@
   - https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7 
   - All states, though many report no data some/all years
   - 2018-2020 only
-  - _Cross-state comparison data should probably be converted to per-capita rates and re-run_
+  - _Cross-state comparison data should probably be converted to per-capita rates_
+  - _Thought about running t-tests or ANOVA to check for statistically significant changes but wondering how to handle given so many states are missing data + given the need for per-capita rates_
 
 ![WorkerDeath_Distro](https://github.com/user-attachments/assets/159fd85b-2b1a-4021-b3b6-dae86b168a6a)
 ![WorkerDeath_OverTime_US](https://github.com/user-attachments/assets/7efc0793-31e3-4555-a916-d4057addb0d6)
 ![WorkerDeath_Georgia](https://github.com/user-attachments/assets/8e36be41-90d1-423b-99bb-5fb85ffa3645)
 ![WorkerDeath_CrossState](https://github.com/user-attachments/assets/08eda04b-c161-4b5c-b0cb-844330a3fd37)
 ![WorkerDeath_Top15](https://github.com/user-attachments/assets/603a0e54-244e-46f0-ad29-d80451612d3d)
+
+### Hospitalizations: Annual Number of Heat-Related Hospitalizations
+  - Working on it: Age/Gender column super messy
+  - pt 1: Number (https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7)
+  - pt 2: Crude rate per 100,000 (TK)
+  - All states
+  - 2018-2022 only
+
+### Mortality: 
+https://ephtracking.cdc.gov/DataExplorer/?query=2ff6c6bb-b90a-44ab-a73c-0a9c73b1cde7 
+  - Working on it
