@@ -1,0 +1,48 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+df = pd.read_csv('HistoricalTempHeatIndex.csv')
+
+print(df.info())
+print(df.describe())
+
+# 1. Histogram of average max temperature
+plt.figure(figsize=(12, 6))
+sns.histplot(data=df, x='Value', kde=True)
+plt.title('Distribution of Weekly Average Maximum Temperature in Georgia')
+plt.xlabel('Average Maximum Temperature)')
+plt.show()
+
+# 2. Box plot to visualize distribution and potential outliers
+plt.figure(figsize=(12, 6))
+sns.boxplot(x='Value', data=df)
+plt.title('Box Plot of Weekly Average Maximum Temperature in Georgia')
+plt.show()
+
+# 3. Calculate and print skewness and kurtosis
+skewness = df['Value'].skew()
+kurtosis = df['Value'].kurtosis()
+print(f"Skewness: {skewness:.2f}")
+print(f"Kurtosis: {kurtosis:.2f}")
+
+# 4. Distribution by county (if you have a reasonable number of counties)
+if 'County' in df.columns:
+    plt.figure(figsize=(15, 8))
+    sns.boxplot(x='County', y='Value', data=df)
+    plt.title('Weekly Average Maximum Temperature Distribution by County')
+    plt.xticks(rotation=90)
+    plt.show()
+
+# Get counties with the highest and lowest average heat indexes
+county_avg_heatindex = df.groupby('County')['Value'].mean().sort_values()
+extreme_counties = pd.concat([county_avg_heatindex.head(5), county_avg_heatindex.tail(5)])
+
+plt.figure(figsize=(15, 8))
+sns.boxplot(x='County', y='Value', 
+            data=df[df['County'].isin(extreme_counties.index)])
+plt.title('Distribution for Counties with Extreme Weekly Average Maximum Temperature')
+plt.xticks(rotation=45, ha='right')
+plt.tight_layout()
+plt.show()
