@@ -4,7 +4,7 @@
   - https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7)
   - Filtered to Georgia for this EDA
   - 2018-2024
-  - _Want to run this over time, but unsure how to convert weekly data to something Python can use - also, some weeks are missing data and are just hashes)
+  - _Want to run this over time, but unsure how to convert weekly data to something Python can use - also, some weeks are missing data and are just hashes_
 
 ![Screenshot 2024-09-22 233832](https://github.com/user-attachments/assets/ea7f847e-c7fb-41ff-81e8-5bace97817b2)
 ![MaxTemp_Avg](https://github.com/user-attachments/assets/893d424f-c355-49fd-a6df-bbcf920522b9)
