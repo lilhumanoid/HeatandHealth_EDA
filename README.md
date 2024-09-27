@@ -1,6 +1,6 @@
 # Exploratory data analyses for the CDC's Heat + Health Index (Sept. 2024)
 
-### AvgWeeklyHeatIndex = Weekly Average Max Temperature
+### EDA1: Weekly Average Max Temperature
   - https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7
   - Filtered to Georgia for this EDA
   - 2018-2024
@@ -11,12 +11,12 @@
 ![MaxTemp_Box](https://github.com/user-attachments/assets/323dee73-84d0-4a3a-8bab-e98ca7a9a2ab)
 ![MaxTemp_Extremes](https://github.com/user-attachments/assets/2f6dfe63-f872-4e99-a8c0-72fab42d443d)
 
-### WorkerDeaths = Heat-Related Worker Deaths
+### EDA2: Heat-Related Worker Deaths
   - https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7 
   - All states, though many report no data some/all years
   - 2018-2020 only
   - _Cross-state comparison data should probably be converted to per-capita rates_
-  - _Thought about running t-tests or ANOVA to check for statistically significant changes but wondering how to handle given so many states are missing data + given the need for per-capita rates_
+  - _Tori is looking for info about why some states didn't report. Did they report elsewhere?_
 
 ![WorkerDeath_Distro](https://github.com/user-attachments/assets/159fd85b-2b1a-4021-b3b6-dae86b168a6a)
 ![WorkerDeath_OverTime_US](https://github.com/user-attachments/assets/7efc0793-31e3-4555-a916-d4057addb0d6)
@@ -24,13 +24,13 @@
 ![WorkerDeath_CrossState](https://github.com/user-attachments/assets/08eda04b-c161-4b5c-b0cb-844330a3fd37)
 ![WorkerDeath_Top15](https://github.com/user-attachments/assets/603a0e54-244e-46f0-ad29-d80451612d3d)
 
-### Hospitalizations: Annual Number of Heat-Related Hospitalizations
-  - Working on it: Age/Gender column super messy
+### EDA3: Annual Number of Heat-Related Hospitalizations
+  - Working on it: Age/Gender column super messy, need to clean
   - pt 1: Number (https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7)
-  - pt 2: Crude rate per 100,000 (TK)
-  - All states
+  - pt 2: Crude rate per 100,000 (link TK)
+  - All states -> Georgia -> Georgia, Texas, Florida, California comparison
   - 2018-2022 only
 
-### Mortality: 
+### EDA4: Mortality
 https://ephtracking.cdc.gov/DataExplorer/?query=2ff6c6bb-b90a-44ab-a73c-0a9c73b1cde7 
   - Working on it
