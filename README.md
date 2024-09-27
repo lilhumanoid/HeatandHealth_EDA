@@ -11,7 +11,7 @@
 ![MaxTemp_Box](https://github.com/user-attachments/assets/323dee73-84d0-4a3a-8bab-e98ca7a9a2ab)
 ![MaxTemp_Extremes](https://github.com/user-attachments/assets/2f6dfe63-f872-4e99-a8c0-72fab42d443d)
 
-### WorkerDeaths = Weekly Average Max Temperature
+### WorkerDeaths = Heat-Related Worker Deaths
   - https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7 
   - All states, though many report no data some/all years
   - 2018-2020 only
