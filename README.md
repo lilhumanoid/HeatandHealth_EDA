@@ -5,7 +5,7 @@
 |-------------|-----------------|------------|
 | [Source 1](https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7) | Georgia | 2018-2024 |
 
-![MaxTemp_StateAvg](https://github.com/user-attachments/assets/82281e10-3adf-4472-9c5c-9d14290f0e34)
+![MAGNUMOPUSFR](https://github.com/user-attachments/assets/0b394110-5263-4c9b-9daa-5dc2141946cc)
 
 ### Descriptives
 | **Measure**  | **Value**         
