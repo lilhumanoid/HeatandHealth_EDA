@@ -1,15 +1,61 @@
-# Exploratory data analyses for the CDC's Heat + Health Index (Sept. 2024)
+# Exploratory data analyses: CDC Heat + Health Index
 
 ### EDA1: Weekly Average Max Temperature
-  - https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7
-  - Filtered to Georgia for this EDA
-  - 2018-2024
-  - _Want to run this over time, but unsure how to convert weekly data to something Python can use - also, some weeks are missing data and are just hashes_
+| Data source | Location filter | Date range |
+|-------------|-----------------|------------|
+| [Source 1](https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7) | Georgia | 2018-2024 |
 
-![Screenshot 2024-09-22 233832](https://github.com/user-attachments/assets/ea7f847e-c7fb-41ff-81e8-5bace97817b2)
+| **Measure**  | **Value**         
+| :----------- | :--------------: 
+| Mean         | $76.46\degree
+| St. Dv       | $12.55\degree  
+| Min          | $34.1\degree
+| 25%          | $66.4\degree   
+| 50%/median   | $77.9\degree
+| 75%          | $87.6\degree   
+| Max          | $99.9\degree   
+| Skewness     | -0.38
+| Kurtosis     | -0.86
+
+## Top 10 counties with highest temperatures:
+**Highest state-wide average for a single week**: *$95.02\degree
+
+| **County**    | mean  | max  | min  |
+|-----------|-------|------|------|
+| Charlton  | 80.93 | 97.9 | 54.8 |
+| Brantley  | 80.51 | 98.5 | 53.7 |
+| Ware      | 80.44 | 98.6 | 53.8 |
+| Pierce    | 80.34 | 99.0 | 53.3 |
+| Clinch    | 80.27 | 98.0 | 53.5 |
+| Echols    | 80.24 | 96.9 | 53.1 |
+| Camden    | 80.18 | 95.9 | 54.3 |
+| Wayne     | 80.17 | 99.1 | 53.2 |
+| Long      | 80.03 | 99.4 | 53.2 |
+| Bacon     | 79.78 | 98.6 | 52.7 |
+
+## Top 10 counties with lowest temperatures:
+**Lowest state-wide average for a single week**: $48.54\degree
+
+| County     | mean  | max  | min  |
+|------------|-------|------|------|
+| Towns      | 67.88 | 87.9 | 39.1 |
+| Union      | 68.32 | 88.3 | 38.5 |
+| Rabun      | 68.35 | 88.7 | 40.1 |
+| Fannin     | 68.89 | 89.4 | 37.0 |
+| Gilmer     | 69.55 | 89.9 | 37.9 |
+| White      | 70.17 | 90.0 | 41.8 |
+| Lumpkin    | 70.20 | 90.4 | 41.1 |
+| Dade       | 70.59 | 93.1 | 34.1 |
+| Habersham  | 70.67 | 90.8 | 42.4 |
+| Dawson     | 70.98 | 91.6 | 41.4 |
+
+## Simple vizzes
 ![MaxTemp_Avg](https://github.com/user-attachments/assets/893d424f-c355-49fd-a6df-bbcf920522b9)
 ![MaxTemp_Box](https://github.com/user-attachments/assets/323dee73-84d0-4a3a-8bab-e98ca7a9a2ab)
 ![MaxTemp_Extremes](https://github.com/user-attachments/assets/2f6dfe63-f872-4e99-a8c0-72fab42d443d)
+![MaxTemp_StateAvg](https://github.com/user-attachments/assets/82281e10-3adf-4472-9c5c-9d14290f0e34)
+![MaxTemp_AvgMaxMin_TimeSeries_GA](https://github.com/user-attachments/assets/46b17ba7-3044-47e7-ac8b-30210e370fbe)
+
 
 ### EDA2: Heat-Related Worker Deaths
   - https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7 
