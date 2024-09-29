@@ -1,10 +1,13 @@
 # Exploratory data analyses: CDC Heat + Health Index
 
-### EDA1: Weekly Average Max Temperature
+## EDA1: Weekly Average Max Temperature
 | Data source | Location filter | Date range |
 |-------------|-----------------|------------|
 | [Source 1](https://ephtracking.cdc.gov/DataExplorer/?query=ae2ba6e8-a8e9-4f94-a79f-9b75a66f5600&M9=7) | Georgia | 2018-2024 |
 
+![MaxTemp_StateAvg](https://github.com/user-attachments/assets/82281e10-3adf-4472-9c5c-9d14290f0e34)
+
+### Descriptives
 | **Measure**  | **Value**         
 | :----------- | :--------------: 
 | Mean         | 76.46&deg;
@@ -17,7 +20,7 @@
 | Skewness     | -0.38
 | Kurtosis     | -0.86
 
-## Top 10 counties with highest temperatures:
+### Top 10 counties with highest temperatures:
 **Highest state-wide average for a single week**: 95.02&deg;
 
 | **County**    | mean  | max  | min  |
@@ -33,7 +36,7 @@
 | Long      | 80.03 | 99.4 | 53.2 |
 | Bacon     | 79.78 | 98.6 | 52.7 |
 
-## Top 10 counties with lowest temperatures:
+### Top 10 counties with lowest temperatures:
 **Lowest state-wide average for a single week**: 48.54&deg;
 
 | County     | mean  | max  | min  |
@@ -49,15 +52,14 @@
 | Habersham  | 70.67 | 90.8 | 42.4 |
 | Dawson     | 70.98 | 91.6 | 41.4 |
 
-## Simple vizzes
+### Simple vizzes
 ![MaxTemp_Avg](https://github.com/user-attachments/assets/893d424f-c355-49fd-a6df-bbcf920522b9)
 ![MaxTemp_Box](https://github.com/user-attachments/assets/323dee73-84d0-4a3a-8bab-e98ca7a9a2ab)
 ![MaxTemp_Extremes](https://github.com/user-attachments/assets/2f6dfe63-f872-4e99-a8c0-72fab42d443d)
-![MaxTemp_StateAvg](https://github.com/user-attachments/assets/82281e10-3adf-4472-9c5c-9d14290f0e34)
 ![MaxTemp_AvgMaxMin_TimeSeries_GA](https://github.com/user-attachments/assets/46b17ba7-3044-47e7-ac8b-30210e370fbe)
 
 
-### EDA2: Heat-Related Worker Deaths
+## EDA2: Heat-Related Worker Deaths
   - https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7 
   - All states, though many report no data some/all years
   - 2018-2020 only
