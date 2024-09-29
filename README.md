@@ -7,18 +7,18 @@
 
 | **Measure**  | **Value**         
 | :----------- | :--------------: 
-| Mean         | $76.46\degree
-| St. Dv       | $12.55\degree  
-| Min          | $34.1\degree
-| 25%          | $66.4\degree   
-| 50%/median   | $77.9\degree
-| 75%          | $87.6\degree   
-| Max          | $99.9\degree   
+| Mean         | 76.46&deg;
+| St. Dv       | 12.55&deg;  
+| Min          | 34.1&deg;
+| 25%          | 66.4&deg;   
+| 50%/median   | 77.9&deg;
+| 75%          | 87.6&deg;   
+| Max          | 99.9&deg;   
 | Skewness     | -0.38
 | Kurtosis     | -0.86
 
 ## Top 10 counties with highest temperatures:
-**Highest state-wide average for a single week**: *$95.02\degree
+**Highest state-wide average for a single week**: 95.02&deg;
 
 | **County**    | mean  | max  | min  |
 |-----------|-------|------|------|
@@ -34,7 +34,7 @@
 | Bacon     | 79.78 | 98.6 | 52.7 |
 
 ## Top 10 counties with lowest temperatures:
-**Lowest state-wide average for a single week**: $48.54\degree
+**Lowest state-wide average for a single week**: 48.54&deg;
 
 | County     | mean  | max  | min  |
 |------------|-------|------|------|
