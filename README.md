@@ -1,5 +1,9 @@
 # Exploratory data analyses: CDC Heat + Health Index
 
+These are exploratory data analyses using the [Center for Disease Control and Prevention (CDC) Heat & Health Tracker](https://ephtracking.cdc.gov/Applications/heatTracker/). These data will ground our future work analyzing the effects of extreme heat on human health, especially on the health of marginalized populations.
+
+
+
 ## EDA1: Weekly Average Max Temperature
 | Data source | Location filter | Date range |
 |-------------|-----------------|------------|
@@ -20,7 +24,7 @@
 | Skewness     | -0.38
 | Kurtosis     | -0.86
 
-### Top 10 counties with highest temperatures:
+### Top 10 counties with highest weekly average maximum temperatures
 **Highest state-wide average for a single week**: 95.02&deg;
 
 | **County**| mean  | max  | min  |
@@ -36,7 +40,7 @@
 | Long      | 80.03 | 99.4 | 53.2 |
 | Bacon     | 79.78 | 98.6 | 52.7 |
 
-### Top 10 counties with lowest temperatures:
+### Top 10 counties with lowest weekly average maximum temperatures
 **Lowest state-wide average for a single week**: 48.54&deg;
 
 | **County** | mean  | max  | min  |
@@ -52,11 +56,12 @@
 | Habersham  | 70.67 | 90.8 | 42.4 |
 | Dawson     | 70.98 | 91.6 | 41.4 |
 
-### Simple vizzes
+### Simple visualizations
 ![MaxTemp_Avg](https://github.com/user-attachments/assets/893d424f-c355-49fd-a6df-bbcf920522b9)
 ![MaxTemp_Box](https://github.com/user-attachments/assets/323dee73-84d0-4a3a-8bab-e98ca7a9a2ab)
 ![MaxTemp_Extremes](https://github.com/user-attachments/assets/2f6dfe63-f872-4e99-a8c0-72fab42d443d)
 ![MaxTemp_AvgMaxMin_TimeSeries_GA](https://github.com/user-attachments/assets/46b17ba7-3044-47e7-ac8b-30210e370fbe)
+
 
 
 ## EDA2: Heat-Related Worker Deaths
@@ -81,7 +86,7 @@ These descriptives include raw data for all states across all three years, inclu
 Skewness = 2.3
 Kurtosis = 5.2
 
-These descriptives include only states that reported data all three years: Alabama, Arizona, Arkansas, California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, New Jersey, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, and Wisconsin.
+These descriptives include only states that reported data all three years, which includes: Alabama, Arizona, Arkansas, California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, New Jersey, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, and Wisconsin.
 
 | **Measure**  | Number of deaths         
 | :----------- | :--------------: 
@@ -133,12 +138,16 @@ _See "Per_Capita_Worker_Deaths_Analysis.xlsx" for descriptives statistics on eac
 
 _Tori is looking for info about why some states didn't report. Did they report elsewhere?_
 
+
+
 ### EDA3: Annual Number of Heat-Related Hospitalizations
   - Working on it: Age/Gender column super messy, need to clean
   - pt 1: Number (https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7)
   - pt 2: Crude rate per 100,000 (link TK)
   - All states -> Georgia -> Georgia, Texas, Florida, California comparison
   - 2018-2022 only
+
+
 
 ### EDA4: Mortality
 https://ephtracking.cdc.gov/DataExplorer/?query=2ff6c6bb-b90a-44ab-a73c-0a9c73b1cde7 
