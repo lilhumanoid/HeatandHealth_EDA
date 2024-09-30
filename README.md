@@ -156,13 +156,6 @@ _Tori is looking for info about why some states didn't report. Did they report e
 | 75%          | 17
 | Max          | 505
 
-Skewness = 
-Kurtosis = 
-
-| Most common age group | Most common state | Percentage of 0 hospitalizations |
-|-------------|-----------------|------------|
-| 0-4 | Arizona | 31.76% |
-
 ### By year
 | **Year**  | Total hospitalizations         
 | :----------- | :--------------: 
