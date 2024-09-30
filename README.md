@@ -112,10 +112,11 @@ These descriptives include data for only states that reported data all three yea
 | 75% | 0.816767 | 2.007064 | 2.817377 | 0.860947865 | 0.637176 | 0.511678 | 0.893681 | 1.54509 | 1.004034 | 1.61105814 | 2.152055 | 0.435567548 | 0.791316 | 0.844143406 | 0.863858 | 1.151898071 | 0.983127 | 0.703041802 | 1.756641 | 3.768264277 | 1.0751 | 1.514773 | 0.774428 |
 | max | 1.019745 | 2.365486 | 4.307768 | 1.012344965 | 0.659294 | 0.628779 | 0.896125 | 1.71626 | 1.120786 | 1.93145896 | 2.153815 | 0.435879572 | 1.050682 | 1.125362578 | 1.280059 | 1.155889522 | 1.627222 | 0.78112862 | 2.136456 | 5.48650025 | 1.2071 | 1.640205 | 1.205357 |
 
-![Avg_PerCapita_AllYears](Images\Avg_PerCapita_AllYears.png)
-![Distribution_SelectStates](Images\Distribution_SelectStates.png)
-![All_TimeSeries](Images\All_TimeSeries.png)
-![HeatMap](Images\HeatMap_PerCapita_AllYears.png)
+![Avg_PerCapita_AllYears](https://github.com/user-attachments/assets/336918ef-e0bd-48f8-815a-f50e3d315113)
+![Distribution_SelectStates](https://github.com/user-attachments/assets/7df23624-9ae6-41f7-ad09-c2814e51d6fd)
+![WorkerDeaths_SelectStates](https://github.com/user-attachments/assets/f50459d0-de7a-4207-ab20-ab629aaeb829)
+![All_TimeSeries](https://github.com/user-attachments/assets/7c0f8613-3d1c-4304-8d05-e0d37f955411)
+![HeatMap_PerCapita_AllYears](https://github.com/user-attachments/assets/f85462f1-d0b9-4b06-af68-f1ecbf3958b4)
 
 ### Comparing Georgia, Texas, and California:
 **Worker deaths per 100,000 residents**
@@ -125,9 +126,9 @@ These descriptives include data for only states that reported data all three yea
 | Georgia    | 0.62  | 0.66 | 0.57 |
 | Texas      | 0.91  | 1.20 | 0.58 |
 
-![ComparisonTimeChart](Images\Distribution_SelectStates.png)
-![PerCapitaRates_FocusThree](Images\PerCapitaRates_FocusThree.png)
-![Georgia_TimeSeries](Images\Georgia_TImeSeries_WorkerDeaths.png)
+![Comparisons_Updated](https://github.com/user-attachments/assets/35241d39-eae1-45c0-96c3-a6ce65f4ab07)
+![PerCapitaRates_FocusThree](https://github.com/user-attachments/assets/cfa7aeba-a613-4607-92d2-b29fc9656117)
+![Georgia_TImeSeries_WorkerDeaths](https://github.com/user-attachments/assets/a8513ba8-741c-421a-99ef-f81b828095e5)
 
 _Tori is looking for info about why some states didn't report. Did they report elsewhere?_
 
