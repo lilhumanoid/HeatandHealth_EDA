@@ -141,11 +141,111 @@ _Tori is looking for info about why some states didn't report. Did they report e
 
 
 ### EDA3: Annual Number of Heat-Related Hospitalizations
-  - Working on it: Age/Gender column super messy, need to clean
-  - pt 1: Number (https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7)
-  - pt 2: Crude rate per 100,000 (link TK)
-  - All states -> Georgia -> Georgia, Texas, Florida, California comparison
-  - 2018-2022 only
+| Data source | Location filter | Date range |
+|-------------|-----------------|------------|
+| [Source 3](https://ephtracking.cdc.gov/DataExplorer/?query=4938b525-af58-462e-b895-880082c5a118&M9=7) | U.S. | 2018-2022 |
+
+### Descriptives
+| **Measure**  | Number of hospitalizations         
+| :----------- | :--------------: 
+| Mean         | 20.2
+| St. Dv       | 48.3
+| Min          | 0
+| 25%          | 0
+| 50%/median   | 3
+| 75%          | 17
+| Max          | 505
+
+Skewness = 
+Kurtosis = 
+
+| Most common age group | Most common state | Percentage of 0 hospitalizations |
+|-------------|-----------------|------------|
+| 0-4 | Arizona | 31.76% |
+
+### By year
+| **Year**  | Total hospitalizations         
+| :----------- | :--------------: 
+| 2018         | 6625
+| 2019         | 6088
+| 2020         | 5589
+| 2021         | 4367
+| 2022         | 3728
+
+![ByYear](https://github.com/user-attachments/assets/7475822d-00f4-40da-a393-1e5f4b4fe0a6)
+![Hospitalizations_State_Year](https://github.com/user-attachments/assets/534e881a-6e7f-4594-bf64-678ba7cc2b4e)
+
+### By age group
+| **Age Group**  | Total hospitalizations         
+| :----------- | :--------------: 
+| 0-4         | 103
+| 5-14         | 151
+| 15-34         | 4595
+| 35-64         | 11827
+| 64+         | 9721
+
+![Counts_AgeGroup_Year](https://github.com/user-attachments/assets/ca6c5e5b-72d1-4801-94a7-56ce96e6f09f)
+![ByAgeGroup_Time](https://github.com/user-attachments/assets/ce45863e-e577-4c02-85e7-855bed3dcbc0)
+![Scatterplot_Age](https://github.com/user-attachments/assets/a1fe2537-c709-43b7-a617-92c597937b15)
+
+### By gender (male or female)
+| **Gender**  | Total hospitalizations         
+| :----------- | :--------------: 
+| M         | 20298
+| F         | 6099
+
+![ByGender](https://github.com/user-attachments/assets/5bf56ce6-87af-4aca-b029-674d07bb9b64)
+![ByGender_Yeatr](https://github.com/user-attachments/assets/102fc700-bf96-4275-89b8-b4e8cd12bda1)
+![ByGender_Time](https://github.com/user-attachments/assets/00ef7b5c-4a7d-402e-90ad-70eab805f2a9)
+
+### Top 10 states by total hospitalizations
+| State           | Hospitalizations |
+|-----------------|------------------|
+| Florida         | 4992             |
+| Arizona         | 3871             |
+| California      | 2923             |
+| New York        | 1526             |
+| North Carolina  | 1454             |
+| Louisiana       | 1052             |
+| South Carolina  | 1008             |
+| Missouri        | 1006             |
+| Pennsylvania    | 971              |
+| Virginia        | 960              |
+
+![Top10States](https://github.com/user-attachments/assets/df680f12-45b3-409a-8f93-571394a0de6d)
+![T opStates](https://github.com/user-attachments/assets/cd237c9e-8fcc-4e20-883d-3400e45d02c5)
+
+#### States included:
+- Arizona
+- California
+- Colorado
+- Connecticut
+- Florida
+- Iowa
+- Kansas
+- Kentucky
+- Louisiana
+- Maine
+- Maryland
+- Massachusetts
+- Michigan
+- Minnesota
+- Missouri
+- Nebraska
+- New Hampshire
+- New Jersey
+- New Mexico
+- New York
+- North Carolina
+- Oregon
+- Pennsylvania
+- Rhode Island
+- South Carolina
+- Tennessee
+- Utah
+- Virginia
+- Washington
+- Wisconsin
 
 
 
