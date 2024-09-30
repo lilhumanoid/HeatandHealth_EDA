@@ -1,0 +1,1311 @@
+state_fips,state,year,hospitalization_count,Age_Group,Gender
+04,Arizona,2018,1,0 TO 4,Male
+04,Arizona,2018,1,0 TO 4,Female
+04,Arizona,2018,2,5 TO 14,Male
+04,Arizona,2018,0,5 TO 14,Female
+04,Arizona,2018,106,15 TO 34,Male
+04,Arizona,2018,10,15 TO 34,Female
+04,Arizona,2018,271,35 TO 64,Male
+04,Arizona,2018,61,35 TO 64,Female
+04,Arizona,2018,139,>= 65,Male
+04,Arizona,2018,73,>= 65,Female
+04,Arizona,2019,0,0 TO 4,Male
+04,Arizona,2019,2,0 TO 4,Female
+04,Arizona,2019,1,5 TO 14,Male
+04,Arizona,2019,1,5 TO 14,Female
+04,Arizona,2019,86,15 TO 34,Male
+04,Arizona,2019,15,15 TO 34,Female
+04,Arizona,2019,265,35 TO 64,Male
+04,Arizona,2019,58,35 TO 64,Female
+04,Arizona,2019,114,>= 65,Male
+04,Arizona,2019,96,>= 65,Female
+04,Arizona,2020,0,0 TO 4,Male
+04,Arizona,2020,0,0 TO 4,Female
+04,Arizona,2020,5,5 TO 14,Male
+04,Arizona,2020,0,5 TO 14,Female
+04,Arizona,2020,114,15 TO 34,Male
+04,Arizona,2020,21,15 TO 34,Female
+04,Arizona,2020,349,35 TO 64,Male
+04,Arizona,2020,66,35 TO 64,Female
+04,Arizona,2020,163,>= 65,Male
+04,Arizona,2020,80,>= 65,Female
+04,Arizona,2021,3,0 TO 4,Male
+04,Arizona,2021,0,0 TO 4,Female
+04,Arizona,2021,2,5 TO 14,Male
+04,Arizona,2021,0,5 TO 14,Female
+04,Arizona,2021,134,15 TO 34,Male
+04,Arizona,2021,18,15 TO 34,Female
+04,Arizona,2021,309,35 TO 64,Male
+04,Arizona,2021,76,35 TO 64,Female
+04,Arizona,2021,167,>= 65,Male
+04,Arizona,2021,93,>= 65,Female
+04,Arizona,2022,0,0 TO 4,Male
+04,Arizona,2022,2,0 TO 4,Female
+04,Arizona,2022,1,5 TO 14,Male
+04,Arizona,2022,0,5 TO 14,Female
+04,Arizona,2022,174,15 TO 34,Male
+04,Arizona,2022,27,15 TO 34,Female
+04,Arizona,2022,363,35 TO 64,Male
+04,Arizona,2022,87,35 TO 64,Female
+04,Arizona,2022,184,>= 65,Male
+04,Arizona,2022,131,>= 65,Female
+06,California,2018,2,0 TO 4,Male
+06,California,2018,1,0 TO 4,Female
+06,California,2018,3,5 TO 14,Male
+06,California,2018,0,5 TO 14,Female
+06,California,2018,116,15 TO 34,Male
+06,California,2018,14,15 TO 34,Female
+06,California,2018,392,35 TO 64,Male
+06,California,2018,114,35 TO 64,Female
+06,California,2018,285,>= 65,Male
+06,California,2018,199,>= 65,Female
+06,California,2019,3,0 TO 4,Male
+06,California,2019,2,0 TO 4,Female
+06,California,2019,6,5 TO 14,Male
+06,California,2019,3,5 TO 14,Female
+06,California,2019,86,15 TO 34,Male
+06,California,2019,10,15 TO 34,Female
+06,California,2019,261,35 TO 64,Male
+06,California,2019,88,35 TO 64,Female
+06,California,2019,186,>= 65,Male
+06,California,2019,151,>= 65,Female
+06,California,2020,4,0 TO 4,Male
+06,California,2020,2,0 TO 4,Female
+06,California,2020,7,5 TO 14,Male
+06,California,2020,1,5 TO 14,Female
+06,California,2020,115,15 TO 34,Male
+06,California,2020,23,15 TO 34,Female
+06,California,2020,353,35 TO 64,Male
+06,California,2020,89,35 TO 64,Female
+06,California,2020,265,>= 65,Male
+06,California,2020,142,>= 65,Female
+08,Colorado,2018,0,0 TO 4,Male
+08,Colorado,2018,0,0 TO 4,Female
+08,Colorado,2018,0,5 TO 14,Male
+08,Colorado,2018,0,5 TO 14,Female
+08,Colorado,2018,7,15 TO 34,Male
+08,Colorado,2018,1,15 TO 34,Female
+08,Colorado,2018,15,35 TO 64,Male
+08,Colorado,2018,8,35 TO 64,Female
+08,Colorado,2018,8,>= 65,Male
+08,Colorado,2018,8,>= 65,Female
+08,Colorado,2019,1,0 TO 4,Male
+08,Colorado,2019,0,0 TO 4,Female
+08,Colorado,2019,0,5 TO 14,Male
+08,Colorado,2019,0,5 TO 14,Female
+08,Colorado,2019,3,15 TO 34,Male
+08,Colorado,2019,1,15 TO 34,Female
+08,Colorado,2019,12,35 TO 64,Male
+08,Colorado,2019,6,35 TO 64,Female
+08,Colorado,2019,17,>= 65,Male
+08,Colorado,2019,7,>= 65,Female
+08,Colorado,2020,0,0 TO 4,Male
+08,Colorado,2020,0,0 TO 4,Female
+08,Colorado,2020,0,5 TO 14,Male
+08,Colorado,2020,0,5 TO 14,Female
+08,Colorado,2020,2,15 TO 34,Male
+08,Colorado,2020,2,15 TO 34,Female
+08,Colorado,2020,10,35 TO 64,Male
+08,Colorado,2020,12,35 TO 64,Female
+08,Colorado,2020,12,>= 65,Male
+08,Colorado,2020,4,>= 65,Female
+08,Colorado,2021,0,0 TO 4,Male
+08,Colorado,2021,0,0 TO 4,Female
+08,Colorado,2021,1,5 TO 14,Male
+08,Colorado,2021,0,5 TO 14,Female
+08,Colorado,2021,4,15 TO 34,Male
+08,Colorado,2021,0,15 TO 34,Female
+08,Colorado,2021,18,35 TO 64,Male
+08,Colorado,2021,6,35 TO 64,Female
+08,Colorado,2021,20,>= 65,Male
+08,Colorado,2021,9,>= 65,Female
+09,Connecticut,2018,1,0 TO 4,Male
+09,Connecticut,2018,0,0 TO 4,Female
+09,Connecticut,2018,2,5 TO 14,Male
+09,Connecticut,2018,0,5 TO 14,Female
+09,Connecticut,2018,9,15 TO 34,Male
+09,Connecticut,2018,1,15 TO 34,Female
+09,Connecticut,2018,23,35 TO 64,Male
+09,Connecticut,2018,2,35 TO 64,Female
+09,Connecticut,2018,7,>= 65,Male
+09,Connecticut,2018,12,>= 65,Female
+09,Connecticut,2019,0,0 TO 4,Male
+09,Connecticut,2019,0,0 TO 4,Female
+09,Connecticut,2019,0,5 TO 14,Male
+09,Connecticut,2019,0,5 TO 14,Female
+09,Connecticut,2019,5,15 TO 34,Male
+09,Connecticut,2019,2,15 TO 34,Female
+09,Connecticut,2019,18,35 TO 64,Male
+09,Connecticut,2019,4,35 TO 64,Female
+09,Connecticut,2019,11,>= 65,Male
+09,Connecticut,2019,5,>= 65,Female
+09,Connecticut,2020,0,0 TO 4,Male
+09,Connecticut,2020,0,0 TO 4,Female
+09,Connecticut,2020,0,5 TO 14,Male
+09,Connecticut,2020,0,5 TO 14,Female
+09,Connecticut,2020,1,15 TO 34,Male
+09,Connecticut,2020,0,15 TO 34,Female
+09,Connecticut,2020,19,35 TO 64,Male
+09,Connecticut,2020,3,35 TO 64,Female
+09,Connecticut,2020,11,>= 65,Male
+09,Connecticut,2020,7,>= 65,Female
+09,Connecticut,2021,0,0 TO 4,Male
+09,Connecticut,2021,0,0 TO 4,Female
+09,Connecticut,2021,0,5 TO 14,Male
+09,Connecticut,2021,0,5 TO 14,Female
+09,Connecticut,2021,9,15 TO 34,Male
+09,Connecticut,2021,0,15 TO 34,Female
+09,Connecticut,2021,18,35 TO 64,Male
+09,Connecticut,2021,6,35 TO 64,Female
+09,Connecticut,2021,23,>= 65,Male
+09,Connecticut,2021,6,>= 65,Female
+09,Connecticut,2022,1,0 TO 4,Male
+09,Connecticut,2022,0,0 TO 4,Female
+09,Connecticut,2022,1,5 TO 14,Male
+09,Connecticut,2022,0,5 TO 14,Female
+09,Connecticut,2022,7,15 TO 34,Male
+09,Connecticut,2022,0,15 TO 34,Female
+09,Connecticut,2022,13,35 TO 64,Male
+09,Connecticut,2022,2,35 TO 64,Female
+09,Connecticut,2022,9,>= 65,Male
+09,Connecticut,2022,7,>= 65,Female
+12,Florida,2018,4,0 TO 4,Male
+12,Florida,2018,2,0 TO 4,Female
+12,Florida,2018,8,5 TO 14,Male
+12,Florida,2018,2,5 TO 14,Female
+12,Florida,2018,217,15 TO 34,Male
+12,Florida,2018,13,15 TO 34,Female
+12,Florida,2018,438,35 TO 64,Male
+12,Florida,2018,51,35 TO 64,Female
+12,Florida,2018,202,>= 65,Male
+12,Florida,2018,62,>= 65,Female
+12,Florida,2019,2,0 TO 4,Male
+12,Florida,2019,1,0 TO 4,Female
+12,Florida,2019,1,5 TO 14,Male
+12,Florida,2019,3,5 TO 14,Female
+12,Florida,2019,295,15 TO 34,Male
+12,Florida,2019,12,15 TO 34,Female
+12,Florida,2019,505,35 TO 64,Male
+12,Florida,2019,74,35 TO 64,Female
+12,Florida,2019,192,>= 65,Male
+12,Florida,2019,119,>= 65,Female
+12,Florida,2020,0,0 TO 4,Male
+12,Florida,2020,0,0 TO 4,Female
+12,Florida,2020,1,5 TO 14,Male
+12,Florida,2020,1,5 TO 14,Female
+12,Florida,2020,227,15 TO 34,Male
+12,Florida,2020,15,15 TO 34,Female
+12,Florida,2020,377,35 TO 64,Male
+12,Florida,2020,55,35 TO 64,Female
+12,Florida,2020,190,>= 65,Male
+12,Florida,2020,87,>= 65,Female
+12,Florida,2021,1,0 TO 4,Male
+12,Florida,2021,0,0 TO 4,Female
+12,Florida,2021,4,5 TO 14,Male
+12,Florida,2021,1,5 TO 14,Female
+12,Florida,2021,160,15 TO 34,Male
+12,Florida,2021,10,15 TO 34,Female
+12,Florida,2021,272,35 TO 64,Male
+12,Florida,2021,37,35 TO 64,Female
+12,Florida,2021,150,>= 65,Male
+12,Florida,2021,70,>= 65,Female
+12,Florida,2022,1,0 TO 4,Male
+12,Florida,2022,2,0 TO 4,Female
+12,Florida,2022,3,5 TO 14,Male
+12,Florida,2022,0,5 TO 14,Female
+12,Florida,2022,212,15 TO 34,Male
+12,Florida,2022,13,15 TO 34,Female
+12,Florida,2022,449,35 TO 64,Male
+12,Florida,2022,85,35 TO 64,Female
+12,Florida,2022,253,>= 65,Male
+12,Florida,2022,113,>= 65,Female
+19,Iowa,2018,0,0 TO 4,Male
+19,Iowa,2018,0,0 TO 4,Female
+19,Iowa,2018,0,5 TO 14,Male
+19,Iowa,2018,0,5 TO 14,Female
+19,Iowa,2018,0,15 TO 34,Male
+19,Iowa,2018,0,15 TO 34,Female
+19,Iowa,2018,6,35 TO 64,Male
+19,Iowa,2018,2,35 TO 64,Female
+19,Iowa,2018,4,>= 65,Male
+19,Iowa,2018,0,>= 65,Female
+19,Iowa,2019,0,0 TO 4,Male
+19,Iowa,2019,0,0 TO 4,Female
+19,Iowa,2019,1,5 TO 14,Male
+19,Iowa,2019,0,5 TO 14,Female
+19,Iowa,2019,9,15 TO 34,Male
+19,Iowa,2019,2,15 TO 34,Female
+19,Iowa,2019,11,35 TO 64,Male
+19,Iowa,2019,5,35 TO 64,Female
+19,Iowa,2019,15,>= 65,Male
+19,Iowa,2019,11,>= 65,Female
+19,Iowa,2020,0,0 TO 4,Male
+19,Iowa,2020,0,0 TO 4,Female
+19,Iowa,2020,1,5 TO 14,Male
+19,Iowa,2020,0,5 TO 14,Female
+19,Iowa,2020,6,15 TO 34,Male
+19,Iowa,2020,0,15 TO 34,Female
+19,Iowa,2020,24,35 TO 64,Male
+19,Iowa,2020,4,35 TO 64,Female
+19,Iowa,2020,7,>= 65,Male
+19,Iowa,2020,2,>= 65,Female
+19,Iowa,2021,0,0 TO 4,Male
+19,Iowa,2021,0,0 TO 4,Female
+19,Iowa,2021,0,5 TO 14,Male
+19,Iowa,2021,0,5 TO 14,Female
+19,Iowa,2021,1,15 TO 34,Male
+19,Iowa,2021,1,15 TO 34,Female
+19,Iowa,2021,2,35 TO 64,Male
+19,Iowa,2021,2,35 TO 64,Female
+19,Iowa,2021,2,>= 65,Male
+19,Iowa,2021,3,>= 65,Female
+19,Iowa,2022,0,0 TO 4,Male
+19,Iowa,2022,0,0 TO 4,Female
+19,Iowa,2022,1,5 TO 14,Male
+19,Iowa,2022,0,5 TO 14,Female
+19,Iowa,2022,2,15 TO 34,Male
+19,Iowa,2022,1,15 TO 34,Female
+19,Iowa,2022,18,35 TO 64,Male
+19,Iowa,2022,5,35 TO 64,Female
+19,Iowa,2022,13,>= 65,Male
+19,Iowa,2022,9,>= 65,Female
+20,Kansas,2018,0,0 TO 4,Male
+20,Kansas,2018,1,0 TO 4,Female
+20,Kansas,2018,0,5 TO 14,Male
+20,Kansas,2018,0,5 TO 14,Female
+20,Kansas,2018,24,15 TO 34,Male
+20,Kansas,2018,0,15 TO 34,Female
+20,Kansas,2018,45,35 TO 64,Male
+20,Kansas,2018,8,35 TO 64,Female
+20,Kansas,2018,32,>= 65,Male
+20,Kansas,2018,17,>= 65,Female
+20,Kansas,2019,0,0 TO 4,Male
+20,Kansas,2019,1,0 TO 4,Female
+20,Kansas,2019,2,5 TO 14,Male
+20,Kansas,2019,1,5 TO 14,Female
+20,Kansas,2019,24,15 TO 34,Male
+20,Kansas,2019,2,15 TO 34,Female
+20,Kansas,2019,42,35 TO 64,Male
+20,Kansas,2019,10,35 TO 64,Female
+20,Kansas,2019,34,>= 65,Male
+20,Kansas,2019,9,>= 65,Female
+20,Kansas,2020,0,0 TO 4,Male
+20,Kansas,2020,1,0 TO 4,Female
+20,Kansas,2020,0,5 TO 14,Male
+20,Kansas,2020,0,5 TO 14,Female
+20,Kansas,2020,15,15 TO 34,Male
+20,Kansas,2020,2,15 TO 34,Female
+20,Kansas,2020,37,35 TO 64,Male
+20,Kansas,2020,8,35 TO 64,Female
+20,Kansas,2020,21,>= 65,Male
+20,Kansas,2020,11,>= 65,Female
+20,Kansas,2021,0,0 TO 4,Male
+20,Kansas,2021,0,0 TO 4,Female
+20,Kansas,2021,0,5 TO 14,Male
+20,Kansas,2021,0,5 TO 14,Female
+20,Kansas,2021,17,15 TO 34,Male
+20,Kansas,2021,1,15 TO 34,Female
+20,Kansas,2021,34,35 TO 64,Male
+20,Kansas,2021,9,35 TO 64,Female
+20,Kansas,2021,29,>= 65,Male
+20,Kansas,2021,19,>= 65,Female
+21,Kentucky,2018,0,0 TO 4,Male
+21,Kentucky,2018,0,0 TO 4,Female
+21,Kentucky,2018,1,5 TO 14,Male
+21,Kentucky,2018,0,5 TO 14,Female
+21,Kentucky,2018,29,15 TO 34,Male
+21,Kentucky,2018,2,15 TO 34,Female
+21,Kentucky,2018,79,35 TO 64,Male
+21,Kentucky,2018,15,35 TO 64,Female
+21,Kentucky,2018,40,>= 65,Male
+21,Kentucky,2018,15,>= 65,Female
+21,Kentucky,2019,0,0 TO 4,Male
+21,Kentucky,2019,1,0 TO 4,Female
+21,Kentucky,2019,1,5 TO 14,Male
+21,Kentucky,2019,0,5 TO 14,Female
+21,Kentucky,2019,17,15 TO 34,Male
+21,Kentucky,2019,3,15 TO 34,Female
+21,Kentucky,2019,69,35 TO 64,Male
+21,Kentucky,2019,9,35 TO 64,Female
+21,Kentucky,2019,35,>= 65,Male
+21,Kentucky,2019,15,>= 65,Female
+21,Kentucky,2020,0,0 TO 4,Male
+21,Kentucky,2020,0,0 TO 4,Female
+21,Kentucky,2020,0,5 TO 14,Male
+21,Kentucky,2020,0,5 TO 14,Female
+21,Kentucky,2020,18,15 TO 34,Male
+21,Kentucky,2020,3,15 TO 34,Female
+21,Kentucky,2020,53,35 TO 64,Male
+21,Kentucky,2020,9,35 TO 64,Female
+21,Kentucky,2020,25,>= 65,Male
+21,Kentucky,2020,15,>= 65,Female
+21,Kentucky,2021,0,0 TO 4,Male
+21,Kentucky,2021,0,0 TO 4,Female
+21,Kentucky,2021,0,5 TO 14,Male
+21,Kentucky,2021,0,5 TO 14,Female
+21,Kentucky,2021,12,15 TO 34,Male
+21,Kentucky,2021,1,15 TO 34,Female
+21,Kentucky,2021,45,35 TO 64,Male
+21,Kentucky,2021,3,35 TO 64,Female
+21,Kentucky,2021,19,>= 65,Male
+21,Kentucky,2021,12,>= 65,Female
+22,Louisiana,2018,0,0 TO 4,Male
+22,Louisiana,2018,0,0 TO 4,Female
+22,Louisiana,2018,3,5 TO 14,Male
+22,Louisiana,2018,0,5 TO 14,Female
+22,Louisiana,2018,35,15 TO 34,Male
+22,Louisiana,2018,3,15 TO 34,Female
+22,Louisiana,2018,99,35 TO 64,Male
+22,Louisiana,2018,12,35 TO 64,Female
+22,Louisiana,2018,51,>= 65,Male
+22,Louisiana,2018,16,>= 65,Female
+22,Louisiana,2019,0,0 TO 4,Male
+22,Louisiana,2019,0,0 TO 4,Female
+22,Louisiana,2019,1,5 TO 14,Male
+22,Louisiana,2019,0,5 TO 14,Female
+22,Louisiana,2019,64,15 TO 34,Male
+22,Louisiana,2019,0,15 TO 34,Female
+22,Louisiana,2019,134,35 TO 64,Male
+22,Louisiana,2019,17,35 TO 64,Female
+22,Louisiana,2019,55,>= 65,Male
+22,Louisiana,2019,22,>= 65,Female
+22,Louisiana,2020,0,0 TO 4,Male
+22,Louisiana,2020,0,0 TO 4,Female
+22,Louisiana,2020,0,5 TO 14,Male
+22,Louisiana,2020,0,5 TO 14,Female
+22,Louisiana,2020,36,15 TO 34,Male
+22,Louisiana,2020,0,15 TO 34,Female
+22,Louisiana,2020,91,35 TO 64,Male
+22,Louisiana,2020,7,35 TO 64,Female
+22,Louisiana,2020,29,>= 65,Male
+22,Louisiana,2020,9,>= 65,Female
+22,Louisiana,2021,0,0 TO 4,Male
+22,Louisiana,2021,1,0 TO 4,Female
+22,Louisiana,2021,1,5 TO 14,Male
+22,Louisiana,2021,0,5 TO 14,Female
+22,Louisiana,2021,29,15 TO 34,Male
+22,Louisiana,2021,2,15 TO 34,Female
+22,Louisiana,2021,60,35 TO 64,Male
+22,Louisiana,2021,11,35 TO 64,Female
+22,Louisiana,2021,46,>= 65,Male
+22,Louisiana,2021,19,>= 65,Female
+22,Louisiana,2022,0,0 TO 4,Male
+22,Louisiana,2022,0,0 TO 4,Female
+22,Louisiana,2022,0,5 TO 14,Male
+22,Louisiana,2022,0,5 TO 14,Female
+22,Louisiana,2022,40,15 TO 34,Male
+22,Louisiana,2022,1,15 TO 34,Female
+22,Louisiana,2022,79,35 TO 64,Male
+22,Louisiana,2022,17,35 TO 64,Female
+22,Louisiana,2022,45,>= 65,Male
+22,Louisiana,2022,17,>= 65,Female
+23,Maine,2018,0,0 TO 4,Male
+23,Maine,2018,0,0 TO 4,Female
+23,Maine,2018,0,5 TO 14,Male
+23,Maine,2018,0,5 TO 14,Female
+23,Maine,2018,4,15 TO 34,Male
+23,Maine,2018,1,15 TO 34,Female
+23,Maine,2018,6,35 TO 64,Male
+23,Maine,2018,1,35 TO 64,Female
+23,Maine,2018,9,>= 65,Male
+23,Maine,2018,4,>= 65,Female
+23,Maine,2019,0,0 TO 4,Male
+23,Maine,2019,0,0 TO 4,Female
+23,Maine,2019,0,5 TO 14,Male
+23,Maine,2019,0,5 TO 14,Female
+23,Maine,2019,1,15 TO 34,Male
+23,Maine,2019,0,15 TO 34,Female
+23,Maine,2019,2,35 TO 64,Male
+23,Maine,2019,1,35 TO 64,Female
+23,Maine,2019,3,>= 65,Male
+23,Maine,2019,1,>= 65,Female
+23,Maine,2020,0,0 TO 4,Male
+23,Maine,2020,0,0 TO 4,Female
+23,Maine,2020,0,5 TO 14,Male
+23,Maine,2020,0,5 TO 14,Female
+23,Maine,2020,1,15 TO 34,Male
+23,Maine,2020,1,15 TO 34,Female
+23,Maine,2020,6,35 TO 64,Male
+23,Maine,2020,0,35 TO 64,Female
+23,Maine,2020,6,>= 65,Male
+23,Maine,2020,2,>= 65,Female
+23,Maine,2021,1,0 TO 4,Male
+23,Maine,2021,0,0 TO 4,Female
+23,Maine,2021,0,5 TO 14,Male
+23,Maine,2021,0,5 TO 14,Female
+23,Maine,2021,1,15 TO 34,Male
+23,Maine,2021,0,15 TO 34,Female
+23,Maine,2021,5,35 TO 64,Male
+23,Maine,2021,1,35 TO 64,Female
+23,Maine,2021,3,>= 65,Male
+23,Maine,2021,2,>= 65,Female
+24,Maryland,2018,0,0 TO 4,Male
+24,Maryland,2018,0,0 TO 4,Female
+24,Maryland,2018,0,5 TO 14,Male
+24,Maryland,2018,0,5 TO 14,Female
+24,Maryland,2018,25,15 TO 34,Male
+24,Maryland,2018,5,15 TO 34,Female
+24,Maryland,2018,59,35 TO 64,Male
+24,Maryland,2018,10,35 TO 64,Female
+24,Maryland,2018,39,>= 65,Male
+24,Maryland,2018,28,>= 65,Female
+24,Maryland,2019,0,0 TO 4,Male
+24,Maryland,2019,0,0 TO 4,Female
+24,Maryland,2019,0,5 TO 14,Male
+24,Maryland,2019,0,5 TO 14,Female
+24,Maryland,2019,23,15 TO 34,Male
+24,Maryland,2019,5,15 TO 34,Female
+24,Maryland,2019,48,35 TO 64,Male
+24,Maryland,2019,8,35 TO 64,Female
+24,Maryland,2019,29,>= 65,Male
+24,Maryland,2019,19,>= 65,Female
+24,Maryland,2020,0,0 TO 4,Male
+24,Maryland,2020,0,0 TO 4,Female
+24,Maryland,2020,1,5 TO 14,Male
+24,Maryland,2020,0,5 TO 14,Female
+24,Maryland,2020,14,15 TO 34,Male
+24,Maryland,2020,1,15 TO 34,Female
+24,Maryland,2020,47,35 TO 64,Male
+24,Maryland,2020,7,35 TO 64,Female
+24,Maryland,2020,30,>= 65,Male
+24,Maryland,2020,13,>= 65,Female
+25,Massachusetts,2018,0,0 TO 4,Male
+25,Massachusetts,2018,0,0 TO 4,Female
+25,Massachusetts,2018,1,5 TO 14,Male
+25,Massachusetts,2018,0,5 TO 14,Female
+25,Massachusetts,2018,15,15 TO 34,Male
+25,Massachusetts,2018,6,15 TO 34,Female
+25,Massachusetts,2018,45,35 TO 64,Male
+25,Massachusetts,2018,12,35 TO 64,Female
+25,Massachusetts,2018,38,>= 65,Male
+25,Massachusetts,2018,16,>= 65,Female
+25,Massachusetts,2019,0,0 TO 4,Male
+25,Massachusetts,2019,0,0 TO 4,Female
+25,Massachusetts,2019,0,5 TO 14,Male
+25,Massachusetts,2019,0,5 TO 14,Female
+25,Massachusetts,2019,9,15 TO 34,Male
+25,Massachusetts,2019,3,15 TO 34,Female
+25,Massachusetts,2019,22,35 TO 64,Male
+25,Massachusetts,2019,4,35 TO 64,Female
+25,Massachusetts,2019,27,>= 65,Male
+25,Massachusetts,2019,16,>= 65,Female
+25,Massachusetts,2020,0,0 TO 4,Male
+25,Massachusetts,2020,0,0 TO 4,Female
+25,Massachusetts,2020,0,5 TO 14,Male
+25,Massachusetts,2020,0,5 TO 14,Female
+25,Massachusetts,2020,10,15 TO 34,Male
+25,Massachusetts,2020,3,15 TO 34,Female
+25,Massachusetts,2020,34,35 TO 64,Male
+25,Massachusetts,2020,6,35 TO 64,Female
+25,Massachusetts,2020,25,>= 65,Male
+25,Massachusetts,2020,17,>= 65,Female
+26,Michigan,2018,3,0 TO 4,Male
+26,Michigan,2018,1,0 TO 4,Female
+26,Michigan,2018,1,5 TO 14,Male
+26,Michigan,2018,0,5 TO 14,Female
+26,Michigan,2018,34,15 TO 34,Male
+26,Michigan,2018,1,15 TO 34,Female
+26,Michigan,2018,75,35 TO 64,Male
+26,Michigan,2018,30,35 TO 64,Female
+26,Michigan,2018,65,>= 65,Male
+26,Michigan,2018,45,>= 65,Female
+26,Michigan,2019,0,0 TO 4,Male
+26,Michigan,2019,0,0 TO 4,Female
+26,Michigan,2019,2,5 TO 14,Male
+26,Michigan,2019,3,5 TO 14,Female
+26,Michigan,2019,27,15 TO 34,Male
+26,Michigan,2019,5,15 TO 34,Female
+26,Michigan,2019,44,35 TO 64,Male
+26,Michigan,2019,20,35 TO 64,Female
+26,Michigan,2019,28,>= 65,Male
+26,Michigan,2019,27,>= 65,Female
+26,Michigan,2020,0,0 TO 4,Male
+26,Michigan,2020,0,0 TO 4,Female
+26,Michigan,2020,1,5 TO 14,Male
+26,Michigan,2020,1,5 TO 14,Female
+26,Michigan,2020,24,15 TO 34,Male
+26,Michigan,2020,5,15 TO 34,Female
+26,Michigan,2020,66,35 TO 64,Male
+26,Michigan,2020,15,35 TO 64,Female
+26,Michigan,2020,46,>= 65,Male
+26,Michigan,2020,29,>= 65,Female
+27,Minnesota,2018,1,0 TO 4,Male
+27,Minnesota,2018,1,0 TO 4,Female
+27,Minnesota,2018,2,5 TO 14,Male
+27,Minnesota,2018,0,5 TO 14,Female
+27,Minnesota,2018,11,15 TO 34,Male
+27,Minnesota,2018,3,15 TO 34,Female
+27,Minnesota,2018,29,35 TO 64,Male
+27,Minnesota,2018,9,35 TO 64,Female
+27,Minnesota,2018,22,>= 65,Male
+27,Minnesota,2018,11,>= 65,Female
+27,Minnesota,2019,1,0 TO 4,Male
+27,Minnesota,2019,0,0 TO 4,Female
+27,Minnesota,2019,1,5 TO 14,Male
+27,Minnesota,2019,1,5 TO 14,Female
+27,Minnesota,2019,5,15 TO 34,Male
+27,Minnesota,2019,1,15 TO 34,Female
+27,Minnesota,2019,15,35 TO 64,Male
+27,Minnesota,2019,1,35 TO 64,Female
+27,Minnesota,2019,16,>= 65,Male
+27,Minnesota,2019,4,>= 65,Female
+27,Minnesota,2020,0,0 TO 4,Male
+27,Minnesota,2020,0,0 TO 4,Female
+27,Minnesota,2020,0,5 TO 14,Male
+27,Minnesota,2020,0,5 TO 14,Female
+27,Minnesota,2020,5,15 TO 34,Male
+27,Minnesota,2020,2,15 TO 34,Female
+27,Minnesota,2020,16,35 TO 64,Male
+27,Minnesota,2020,6,35 TO 64,Female
+27,Minnesota,2020,21,>= 65,Male
+27,Minnesota,2020,8,>= 65,Female
+27,Minnesota,2021,1,0 TO 4,Male
+27,Minnesota,2021,0,0 TO 4,Female
+27,Minnesota,2021,0,5 TO 14,Male
+27,Minnesota,2021,1,5 TO 14,Female
+27,Minnesota,2021,9,15 TO 34,Male
+27,Minnesota,2021,1,15 TO 34,Female
+27,Minnesota,2021,26,35 TO 64,Male
+27,Minnesota,2021,4,35 TO 64,Female
+27,Minnesota,2021,23,>= 65,Male
+27,Minnesota,2021,11,>= 65,Female
+29,Missouri,2018,1,0 TO 4,Male
+29,Missouri,2018,0,0 TO 4,Female
+29,Missouri,2018,2,5 TO 14,Male
+29,Missouri,2018,0,5 TO 14,Female
+29,Missouri,2018,61,15 TO 34,Male
+29,Missouri,2018,4,15 TO 34,Female
+29,Missouri,2018,147,35 TO 64,Male
+29,Missouri,2018,26,35 TO 64,Female
+29,Missouri,2018,68,>= 65,Male
+29,Missouri,2018,40,>= 65,Female
+29,Missouri,2019,0,0 TO 4,Male
+29,Missouri,2019,1,0 TO 4,Female
+29,Missouri,2019,1,5 TO 14,Male
+29,Missouri,2019,1,5 TO 14,Female
+29,Missouri,2019,38,15 TO 34,Male
+29,Missouri,2019,2,15 TO 34,Female
+29,Missouri,2019,108,35 TO 64,Male
+29,Missouri,2019,16,35 TO 64,Female
+29,Missouri,2019,69,>= 65,Male
+29,Missouri,2019,23,>= 65,Female
+29,Missouri,2020,1,0 TO 4,Male
+29,Missouri,2020,0,0 TO 4,Female
+29,Missouri,2020,0,5 TO 14,Male
+29,Missouri,2020,0,5 TO 14,Female
+29,Missouri,2020,21,15 TO 34,Male
+29,Missouri,2020,2,15 TO 34,Female
+29,Missouri,2020,56,35 TO 64,Male
+29,Missouri,2020,15,35 TO 64,Female
+29,Missouri,2020,43,>= 65,Male
+29,Missouri,2020,30,>= 65,Female
+29,Missouri,2021,0,0 TO 4,Male
+29,Missouri,2021,1,0 TO 4,Female
+29,Missouri,2021,2,5 TO 14,Male
+29,Missouri,2021,0,5 TO 14,Female
+29,Missouri,2021,33,15 TO 34,Male
+29,Missouri,2021,5,15 TO 34,Female
+29,Missouri,2021,92,35 TO 64,Male
+29,Missouri,2021,24,35 TO 64,Female
+29,Missouri,2021,48,>= 65,Male
+29,Missouri,2021,25,>= 65,Female
+31,Nebraska,2018,0,0 TO 4,Male
+31,Nebraska,2018,0,0 TO 4,Female
+31,Nebraska,2018,0,5 TO 14,Male
+31,Nebraska,2018,0,5 TO 14,Female
+31,Nebraska,2018,6,15 TO 34,Male
+31,Nebraska,2018,1,15 TO 34,Female
+31,Nebraska,2018,8,35 TO 64,Male
+31,Nebraska,2018,2,35 TO 64,Female
+31,Nebraska,2018,16,>= 65,Male
+31,Nebraska,2018,5,>= 65,Female
+31,Nebraska,2019,0,0 TO 4,Male
+31,Nebraska,2019,0,0 TO 4,Female
+31,Nebraska,2019,0,5 TO 14,Male
+31,Nebraska,2019,0,5 TO 14,Female
+31,Nebraska,2019,5,15 TO 34,Male
+31,Nebraska,2019,0,15 TO 34,Female
+31,Nebraska,2019,17,35 TO 64,Male
+31,Nebraska,2019,2,35 TO 64,Female
+31,Nebraska,2019,14,>= 65,Male
+31,Nebraska,2019,4,>= 65,Female
+31,Nebraska,2020,0,0 TO 4,Male
+31,Nebraska,2020,0,0 TO 4,Female
+31,Nebraska,2020,0,5 TO 14,Male
+31,Nebraska,2020,0,5 TO 14,Female
+31,Nebraska,2020,5,15 TO 34,Male
+31,Nebraska,2020,0,15 TO 34,Female
+31,Nebraska,2020,12,35 TO 64,Male
+31,Nebraska,2020,4,35 TO 64,Female
+31,Nebraska,2020,8,>= 65,Male
+31,Nebraska,2020,6,>= 65,Female
+31,Nebraska,2021,0,0 TO 4,Male
+31,Nebraska,2021,0,0 TO 4,Female
+31,Nebraska,2021,0,5 TO 14,Male
+31,Nebraska,2021,0,5 TO 14,Female
+31,Nebraska,2021,6,15 TO 34,Male
+31,Nebraska,2021,0,15 TO 34,Female
+31,Nebraska,2021,9,35 TO 64,Male
+31,Nebraska,2021,2,35 TO 64,Female
+31,Nebraska,2021,10,>= 65,Male
+31,Nebraska,2021,7,>= 65,Female
+31,Nebraska,2022,0,0 TO 4,Male
+31,Nebraska,2022,0,0 TO 4,Female
+31,Nebraska,2022,1,5 TO 14,Male
+31,Nebraska,2022,0,5 TO 14,Female
+31,Nebraska,2022,7,15 TO 34,Male
+31,Nebraska,2022,0,15 TO 34,Female
+31,Nebraska,2022,12,35 TO 64,Male
+31,Nebraska,2022,2,35 TO 64,Female
+31,Nebraska,2022,14,>= 65,Male
+31,Nebraska,2022,8,>= 65,Female
+33,New Hampshire,2018,0,0 TO 4,Male
+33,New Hampshire,2018,0,0 TO 4,Female
+33,New Hampshire,2018,0,5 TO 14,Male
+33,New Hampshire,2018,0,5 TO 14,Female
+33,New Hampshire,2018,0,15 TO 34,Male
+33,New Hampshire,2018,0,15 TO 34,Female
+33,New Hampshire,2018,5,35 TO 64,Male
+33,New Hampshire,2018,3,35 TO 64,Female
+33,New Hampshire,2018,3,>= 65,Male
+33,New Hampshire,2018,1,>= 65,Female
+33,New Hampshire,2019,0,0 TO 4,Male
+33,New Hampshire,2019,0,0 TO 4,Female
+33,New Hampshire,2019,0,5 TO 14,Male
+33,New Hampshire,2019,0,5 TO 14,Female
+33,New Hampshire,2019,4,15 TO 34,Male
+33,New Hampshire,2019,1,15 TO 34,Female
+33,New Hampshire,2019,2,35 TO 64,Male
+33,New Hampshire,2019,1,35 TO 64,Female
+33,New Hampshire,2019,3,>= 65,Male
+33,New Hampshire,2019,3,>= 65,Female
+33,New Hampshire,2020,0,0 TO 4,Male
+33,New Hampshire,2020,0,0 TO 4,Female
+33,New Hampshire,2020,0,5 TO 14,Male
+33,New Hampshire,2020,0,5 TO 14,Female
+33,New Hampshire,2020,2,15 TO 34,Male
+33,New Hampshire,2020,0,15 TO 34,Female
+33,New Hampshire,2020,5,35 TO 64,Male
+33,New Hampshire,2020,1,35 TO 64,Female
+33,New Hampshire,2020,8,>= 65,Male
+33,New Hampshire,2020,1,>= 65,Female
+33,New Hampshire,2021,0,0 TO 4,Male
+33,New Hampshire,2021,0,0 TO 4,Female
+33,New Hampshire,2021,0,5 TO 14,Male
+33,New Hampshire,2021,0,5 TO 14,Female
+33,New Hampshire,2021,3,15 TO 34,Male
+33,New Hampshire,2021,0,15 TO 34,Female
+33,New Hampshire,2021,6,35 TO 64,Male
+33,New Hampshire,2021,2,35 TO 64,Female
+33,New Hampshire,2021,6,>= 65,Male
+33,New Hampshire,2021,5,>= 65,Female
+34,New Jersey,2018,1,0 TO 4,Male
+34,New Jersey,2018,0,0 TO 4,Female
+34,New Jersey,2018,0,5 TO 14,Male
+34,New Jersey,2018,0,5 TO 14,Female
+34,New Jersey,2018,23,15 TO 34,Male
+34,New Jersey,2018,2,15 TO 34,Female
+34,New Jersey,2018,48,35 TO 64,Male
+34,New Jersey,2018,15,35 TO 64,Female
+34,New Jersey,2018,36,>= 65,Male
+34,New Jersey,2018,25,>= 65,Female
+34,New Jersey,2019,0,0 TO 4,Male
+34,New Jersey,2019,0,0 TO 4,Female
+34,New Jersey,2019,0,5 TO 14,Male
+34,New Jersey,2019,0,5 TO 14,Female
+34,New Jersey,2019,11,15 TO 34,Male
+34,New Jersey,2019,0,15 TO 34,Female
+34,New Jersey,2019,54,35 TO 64,Male
+34,New Jersey,2019,7,35 TO 64,Female
+34,New Jersey,2019,42,>= 65,Male
+34,New Jersey,2019,16,>= 65,Female
+34,New Jersey,2020,0,0 TO 4,Male
+34,New Jersey,2020,0,0 TO 4,Female
+34,New Jersey,2020,0,5 TO 14,Male
+34,New Jersey,2020,0,5 TO 14,Female
+34,New Jersey,2020,15,15 TO 34,Male
+34,New Jersey,2020,0,15 TO 34,Female
+34,New Jersey,2020,38,35 TO 64,Male
+34,New Jersey,2020,13,35 TO 64,Female
+34,New Jersey,2020,31,>= 65,Male
+34,New Jersey,2020,21,>= 65,Female
+34,New Jersey,2021,0,0 TO 4,Male
+34,New Jersey,2021,0,0 TO 4,Female
+34,New Jersey,2021,0,5 TO 14,Male
+34,New Jersey,2021,0,5 TO 14,Female
+34,New Jersey,2021,32,15 TO 34,Male
+34,New Jersey,2021,1,15 TO 34,Female
+34,New Jersey,2021,57,35 TO 64,Male
+34,New Jersey,2021,11,35 TO 64,Female
+34,New Jersey,2021,41,>= 65,Male
+34,New Jersey,2021,22,>= 65,Female
+34,New Jersey,2022,0,0 TO 4,Male
+34,New Jersey,2022,0,0 TO 4,Female
+34,New Jersey,2022,0,5 TO 14,Male
+34,New Jersey,2022,0,5 TO 14,Female
+34,New Jersey,2022,18,15 TO 34,Male
+34,New Jersey,2022,2,15 TO 34,Female
+34,New Jersey,2022,38,35 TO 64,Male
+34,New Jersey,2022,11,35 TO 64,Female
+34,New Jersey,2022,35,>= 65,Male
+34,New Jersey,2022,33,>= 65,Female
+35,New Mexico,2018,0,0 TO 4,Male
+35,New Mexico,2018,1,0 TO 4,Female
+35,New Mexico,2018,1,5 TO 14,Male
+35,New Mexico,2018,0,5 TO 14,Female
+35,New Mexico,2018,5,15 TO 34,Male
+35,New Mexico,2018,2,15 TO 34,Female
+35,New Mexico,2018,8,35 TO 64,Male
+35,New Mexico,2018,4,35 TO 64,Female
+35,New Mexico,2018,10,>= 65,Male
+35,New Mexico,2018,8,>= 65,Female
+35,New Mexico,2019,0,0 TO 4,Male
+35,New Mexico,2019,0,0 TO 4,Female
+35,New Mexico,2019,0,5 TO 14,Male
+35,New Mexico,2019,0,5 TO 14,Female
+35,New Mexico,2019,6,15 TO 34,Male
+35,New Mexico,2019,0,15 TO 34,Female
+35,New Mexico,2019,19,35 TO 64,Male
+35,New Mexico,2019,3,35 TO 64,Female
+35,New Mexico,2019,10,>= 65,Male
+35,New Mexico,2019,3,>= 65,Female
+35,New Mexico,2020,0,0 TO 4,Male
+35,New Mexico,2020,0,0 TO 4,Female
+35,New Mexico,2020,0,5 TO 14,Male
+35,New Mexico,2020,0,5 TO 14,Female
+35,New Mexico,2020,6,15 TO 34,Male
+35,New Mexico,2020,0,15 TO 34,Female
+35,New Mexico,2020,18,35 TO 64,Male
+35,New Mexico,2020,3,35 TO 64,Female
+35,New Mexico,2020,10,>= 65,Male
+35,New Mexico,2020,9,>= 65,Female
+35,New Mexico,2021,0,0 TO 4,Male
+35,New Mexico,2021,0,0 TO 4,Female
+35,New Mexico,2021,0,5 TO 14,Male
+35,New Mexico,2021,0,5 TO 14,Female
+35,New Mexico,2021,10,15 TO 34,Male
+35,New Mexico,2021,2,15 TO 34,Female
+35,New Mexico,2021,21,35 TO 64,Male
+35,New Mexico,2021,5,35 TO 64,Female
+35,New Mexico,2021,11,>= 65,Male
+35,New Mexico,2021,4,>= 65,Female
+35,New Mexico,2022,0,0 TO 4,Male
+35,New Mexico,2022,0,0 TO 4,Female
+35,New Mexico,2022,0,5 TO 14,Male
+35,New Mexico,2022,0,5 TO 14,Female
+35,New Mexico,2022,13,15 TO 34,Male
+35,New Mexico,2022,0,15 TO 34,Female
+35,New Mexico,2022,13,35 TO 64,Male
+35,New Mexico,2022,2,35 TO 64,Female
+35,New Mexico,2022,13,>= 65,Male
+35,New Mexico,2022,8,>= 65,Female
+36,New York,2018,2,0 TO 4,Male
+36,New York,2018,0,0 TO 4,Female
+36,New York,2018,4,5 TO 14,Male
+36,New York,2018,1,5 TO 14,Female
+36,New York,2018,38,15 TO 34,Male
+36,New York,2018,10,15 TO 34,Female
+36,New York,2018,113,35 TO 64,Male
+36,New York,2018,23,35 TO 64,Female
+36,New York,2018,98,>= 65,Male
+36,New York,2018,74,>= 65,Female
+36,New York,2019,0,0 TO 4,Male
+36,New York,2019,1,0 TO 4,Female
+36,New York,2019,1,5 TO 14,Male
+36,New York,2019,1,5 TO 14,Female
+36,New York,2019,25,15 TO 34,Male
+36,New York,2019,7,15 TO 34,Female
+36,New York,2019,95,35 TO 64,Male
+36,New York,2019,28,35 TO 64,Female
+36,New York,2019,83,>= 65,Male
+36,New York,2019,76,>= 65,Female
+36,New York,2020,0,0 TO 4,Male
+36,New York,2020,1,0 TO 4,Female
+36,New York,2020,1,5 TO 14,Male
+36,New York,2020,1,5 TO 14,Female
+36,New York,2020,32,15 TO 34,Male
+36,New York,2020,4,15 TO 34,Female
+36,New York,2020,80,35 TO 64,Male
+36,New York,2020,28,35 TO 64,Female
+36,New York,2020,82,>= 65,Male
+36,New York,2020,59,>= 65,Female
+36,New York,2021,5,0 TO 4,Male
+36,New York,2021,1,0 TO 4,Female
+36,New York,2021,4,5 TO 14,Male
+36,New York,2021,1,5 TO 14,Female
+36,New York,2021,41,15 TO 34,Male
+36,New York,2021,4,15 TO 34,Female
+36,New York,2021,74,35 TO 64,Male
+36,New York,2021,22,35 TO 64,Female
+36,New York,2021,78,>= 65,Male
+36,New York,2021,52,>= 65,Female
+36,New York,2022,0,0 TO 4,Male
+36,New York,2022,0,0 TO 4,Female
+36,New York,2022,0,5 TO 14,Male
+36,New York,2022,1,5 TO 14,Female
+36,New York,2022,26,15 TO 34,Male
+36,New York,2022,5,15 TO 34,Female
+36,New York,2022,66,35 TO 64,Male
+36,New York,2022,27,35 TO 64,Female
+36,New York,2022,83,>= 65,Male
+36,New York,2022,68,>= 65,Female
+37,North Carolina,2018,3,0 TO 4,Male
+37,North Carolina,2018,1,0 TO 4,Female
+37,North Carolina,2018,2,5 TO 14,Male
+37,North Carolina,2018,0,5 TO 14,Female
+37,North Carolina,2018,55,15 TO 34,Male
+37,North Carolina,2018,5,15 TO 34,Female
+37,North Carolina,2018,142,35 TO 64,Male
+37,North Carolina,2018,22,35 TO 64,Female
+37,North Carolina,2018,71,>= 65,Male
+37,North Carolina,2018,25,>= 65,Female
+37,North Carolina,2019,1,0 TO 4,Male
+37,North Carolina,2019,1,0 TO 4,Female
+37,North Carolina,2019,3,5 TO 14,Male
+37,North Carolina,2019,0,5 TO 14,Female
+37,North Carolina,2019,56,15 TO 34,Male
+37,North Carolina,2019,3,15 TO 34,Female
+37,North Carolina,2019,143,35 TO 64,Male
+37,North Carolina,2019,22,35 TO 64,Female
+37,North Carolina,2019,74,>= 65,Male
+37,North Carolina,2019,43,>= 65,Female
+37,North Carolina,2020,3,0 TO 4,Male
+37,North Carolina,2020,0,0 TO 4,Female
+37,North Carolina,2020,0,5 TO 14,Male
+37,North Carolina,2020,0,5 TO 14,Female
+37,North Carolina,2020,62,15 TO 34,Male
+37,North Carolina,2020,3,15 TO 34,Female
+37,North Carolina,2020,108,35 TO 64,Male
+37,North Carolina,2020,12,35 TO 64,Female
+37,North Carolina,2020,74,>= 65,Male
+37,North Carolina,2020,36,>= 65,Female
+37,North Carolina,2021,0,0 TO 4,Male
+37,North Carolina,2021,0,0 TO 4,Female
+37,North Carolina,2021,0,5 TO 14,Male
+37,North Carolina,2021,1,5 TO 14,Female
+37,North Carolina,2021,40,15 TO 34,Male
+37,North Carolina,2021,3,15 TO 34,Female
+37,North Carolina,2021,75,35 TO 64,Male
+37,North Carolina,2021,22,35 TO 64,Female
+37,North Carolina,2021,69,>= 65,Male
+37,North Carolina,2021,26,>= 65,Female
+37,North Carolina,2022,3,0 TO 4,Male
+37,North Carolina,2022,2,0 TO 4,Female
+37,North Carolina,2022,0,5 TO 14,Male
+37,North Carolina,2022,0,5 TO 14,Female
+37,North Carolina,2022,34,15 TO 34,Male
+37,North Carolina,2022,5,15 TO 34,Female
+37,North Carolina,2022,92,35 TO 64,Male
+37,North Carolina,2022,19,35 TO 64,Female
+37,North Carolina,2022,60,>= 65,Male
+37,North Carolina,2022,33,>= 65,Female
+41,Oregon,2018,0,0 TO 4,Male
+41,Oregon,2018,0,0 TO 4,Female
+41,Oregon,2018,0,5 TO 14,Male
+41,Oregon,2018,0,5 TO 14,Female
+41,Oregon,2018,3,15 TO 34,Male
+41,Oregon,2018,0,15 TO 34,Female
+41,Oregon,2018,15,35 TO 64,Male
+41,Oregon,2018,1,35 TO 64,Female
+41,Oregon,2018,4,>= 65,Male
+41,Oregon,2018,6,>= 65,Female
+41,Oregon,2019,0,0 TO 4,Male
+41,Oregon,2019,0,0 TO 4,Female
+41,Oregon,2019,1,5 TO 14,Male
+41,Oregon,2019,0,5 TO 14,Female
+41,Oregon,2019,3,15 TO 34,Male
+41,Oregon,2019,0,15 TO 34,Female
+41,Oregon,2019,6,35 TO 64,Male
+41,Oregon,2019,7,35 TO 64,Female
+41,Oregon,2019,7,>= 65,Male
+41,Oregon,2019,3,>= 65,Female
+41,Oregon,2020,0,0 TO 4,Male
+41,Oregon,2020,0,0 TO 4,Female
+41,Oregon,2020,0,5 TO 14,Male
+41,Oregon,2020,0,5 TO 14,Female
+41,Oregon,2020,5,15 TO 34,Male
+41,Oregon,2020,1,15 TO 34,Female
+41,Oregon,2020,11,35 TO 64,Male
+41,Oregon,2020,3,35 TO 64,Female
+41,Oregon,2020,6,>= 65,Male
+41,Oregon,2020,7,>= 65,Female
+41,Oregon,2021,1,0 TO 4,Male
+41,Oregon,2021,1,0 TO 4,Female
+41,Oregon,2021,0,5 TO 14,Male
+41,Oregon,2021,0,5 TO 14,Female
+41,Oregon,2021,6,15 TO 34,Male
+41,Oregon,2021,5,15 TO 34,Female
+41,Oregon,2021,42,35 TO 64,Male
+41,Oregon,2021,24,35 TO 64,Female
+41,Oregon,2021,51,>= 65,Male
+41,Oregon,2021,47,>= 65,Female
+41,Oregon,2022,0,0 TO 4,Male
+41,Oregon,2022,0,0 TO 4,Female
+41,Oregon,2022,0,5 TO 14,Male
+41,Oregon,2022,0,5 TO 14,Female
+41,Oregon,2022,4,15 TO 34,Male
+41,Oregon,2022,2,15 TO 34,Female
+41,Oregon,2022,21,35 TO 64,Male
+41,Oregon,2022,5,35 TO 64,Female
+41,Oregon,2022,17,>= 65,Male
+41,Oregon,2022,15,>= 65,Female
+42,Pennsylvania,2018,0,0 TO 4,Male
+42,Pennsylvania,2018,3,0 TO 4,Female
+42,Pennsylvania,2018,6,5 TO 14,Male
+42,Pennsylvania,2018,0,5 TO 14,Female
+42,Pennsylvania,2018,39,15 TO 34,Male
+42,Pennsylvania,2018,3,15 TO 34,Female
+42,Pennsylvania,2018,91,35 TO 64,Male
+42,Pennsylvania,2018,37,35 TO 64,Female
+42,Pennsylvania,2018,80,>= 65,Male
+42,Pennsylvania,2018,40,>= 65,Female
+42,Pennsylvania,2019,0,0 TO 4,Male
+42,Pennsylvania,2019,0,0 TO 4,Female
+42,Pennsylvania,2019,3,5 TO 14,Male
+42,Pennsylvania,2019,0,5 TO 14,Female
+42,Pennsylvania,2019,35,15 TO 34,Male
+42,Pennsylvania,2019,2,15 TO 34,Female
+42,Pennsylvania,2019,73,35 TO 64,Male
+42,Pennsylvania,2019,15,35 TO 64,Female
+42,Pennsylvania,2019,71,>= 65,Male
+42,Pennsylvania,2019,44,>= 65,Female
+42,Pennsylvania,2020,2,0 TO 4,Male
+42,Pennsylvania,2020,0,0 TO 4,Female
+42,Pennsylvania,2020,1,5 TO 14,Male
+42,Pennsylvania,2020,0,5 TO 14,Female
+42,Pennsylvania,2020,22,15 TO 34,Male
+42,Pennsylvania,2020,3,15 TO 34,Female
+42,Pennsylvania,2020,68,35 TO 64,Male
+42,Pennsylvania,2020,15,35 TO 64,Female
+42,Pennsylvania,2020,64,>= 65,Male
+42,Pennsylvania,2020,31,>= 65,Female
+42,Pennsylvania,2021,0,0 TO 4,Male
+42,Pennsylvania,2021,0,0 TO 4,Female
+42,Pennsylvania,2021,1,5 TO 14,Male
+42,Pennsylvania,2021,0,5 TO 14,Female
+42,Pennsylvania,2021,29,15 TO 34,Male
+42,Pennsylvania,2021,4,15 TO 34,Female
+42,Pennsylvania,2021,67,35 TO 64,Male
+42,Pennsylvania,2021,13,35 TO 64,Female
+42,Pennsylvania,2021,75,>= 65,Male
+42,Pennsylvania,2021,34,>= 65,Female
+44,Rhode Island,2018,0,0 TO 4,Male
+44,Rhode Island,2018,0,0 TO 4,Female
+44,Rhode Island,2018,0,5 TO 14,Male
+44,Rhode Island,2018,0,5 TO 14,Female
+44,Rhode Island,2018,5,15 TO 34,Male
+44,Rhode Island,2018,0,15 TO 34,Female
+44,Rhode Island,2018,6,35 TO 64,Male
+44,Rhode Island,2018,2,35 TO 64,Female
+44,Rhode Island,2018,6,>= 65,Male
+44,Rhode Island,2018,8,>= 65,Female
+44,Rhode Island,2019,0,0 TO 4,Male
+44,Rhode Island,2019,0,0 TO 4,Female
+44,Rhode Island,2019,1,5 TO 14,Male
+44,Rhode Island,2019,0,5 TO 14,Female
+44,Rhode Island,2019,2,15 TO 34,Male
+44,Rhode Island,2019,1,15 TO 34,Female
+44,Rhode Island,2019,5,35 TO 64,Male
+44,Rhode Island,2019,1,35 TO 64,Female
+44,Rhode Island,2019,4,>= 65,Male
+44,Rhode Island,2019,3,>= 65,Female
+44,Rhode Island,2020,0,0 TO 4,Male
+44,Rhode Island,2020,0,0 TO 4,Female
+44,Rhode Island,2020,0,5 TO 14,Male
+44,Rhode Island,2020,0,5 TO 14,Female
+44,Rhode Island,2020,4,15 TO 34,Male
+44,Rhode Island,2020,0,15 TO 34,Female
+44,Rhode Island,2020,2,35 TO 64,Male
+44,Rhode Island,2020,1,35 TO 64,Female
+44,Rhode Island,2020,3,>= 65,Male
+44,Rhode Island,2020,0,>= 65,Female
+44,Rhode Island,2021,0,0 TO 4,Male
+44,Rhode Island,2021,0,0 TO 4,Female
+44,Rhode Island,2021,0,5 TO 14,Male
+44,Rhode Island,2021,0,5 TO 14,Female
+44,Rhode Island,2021,3,15 TO 34,Male
+44,Rhode Island,2021,1,15 TO 34,Female
+44,Rhode Island,2021,7,35 TO 64,Male
+44,Rhode Island,2021,1,35 TO 64,Female
+44,Rhode Island,2021,8,>= 65,Male
+44,Rhode Island,2021,4,>= 65,Female
+44,Rhode Island,2022,0,0 TO 4,Male
+44,Rhode Island,2022,0,0 TO 4,Female
+44,Rhode Island,2022,0,5 TO 14,Male
+44,Rhode Island,2022,0,5 TO 14,Female
+44,Rhode Island,2022,0,15 TO 34,Male
+44,Rhode Island,2022,1,15 TO 34,Female
+44,Rhode Island,2022,2,35 TO 64,Male
+44,Rhode Island,2022,1,35 TO 64,Female
+44,Rhode Island,2022,3,>= 65,Male
+44,Rhode Island,2022,2,>= 65,Female
+45,South Carolina,2018,0,0 TO 4,Male
+45,South Carolina,2018,0,0 TO 4,Female
+45,South Carolina,2018,3,5 TO 14,Male
+45,South Carolina,2018,0,5 TO 14,Female
+45,South Carolina,2018,59,15 TO 34,Male
+45,South Carolina,2018,2,15 TO 34,Female
+45,South Carolina,2018,89,35 TO 64,Male
+45,South Carolina,2018,21,35 TO 64,Female
+45,South Carolina,2018,40,>= 65,Male
+45,South Carolina,2018,18,>= 65,Female
+45,South Carolina,2019,1,0 TO 4,Male
+45,South Carolina,2019,0,0 TO 4,Female
+45,South Carolina,2019,1,5 TO 14,Male
+45,South Carolina,2019,0,5 TO 14,Female
+45,South Carolina,2019,66,15 TO 34,Male
+45,South Carolina,2019,2,15 TO 34,Female
+45,South Carolina,2019,102,35 TO 64,Male
+45,South Carolina,2019,9,35 TO 64,Female
+45,South Carolina,2019,59,>= 65,Male
+45,South Carolina,2019,18,>= 65,Female
+45,South Carolina,2020,0,0 TO 4,Male
+45,South Carolina,2020,0,0 TO 4,Female
+45,South Carolina,2020,0,5 TO 14,Male
+45,South Carolina,2020,0,5 TO 14,Female
+45,South Carolina,2020,39,15 TO 34,Male
+45,South Carolina,2020,4,15 TO 34,Female
+45,South Carolina,2020,58,35 TO 64,Male
+45,South Carolina,2020,8,35 TO 64,Female
+45,South Carolina,2020,29,>= 65,Male
+45,South Carolina,2020,14,>= 65,Female
+45,South Carolina,2021,0,0 TO 4,Male
+45,South Carolina,2021,0,0 TO 4,Female
+45,South Carolina,2021,0,5 TO 14,Male
+45,South Carolina,2021,0,5 TO 14,Female
+45,South Carolina,2021,35,15 TO 34,Male
+45,South Carolina,2021,0,15 TO 34,Female
+45,South Carolina,2021,59,35 TO 64,Male
+45,South Carolina,2021,16,35 TO 64,Female
+45,South Carolina,2021,34,>= 65,Male
+45,South Carolina,2021,14,>= 65,Female
+45,South Carolina,2022,0,0 TO 4,Male
+45,South Carolina,2022,0,0 TO 4,Female
+45,South Carolina,2022,1,5 TO 14,Male
+45,South Carolina,2022,0,5 TO 14,Female
+45,South Carolina,2022,40,15 TO 34,Male
+45,South Carolina,2022,6,15 TO 34,Female
+45,South Carolina,2022,67,35 TO 64,Male
+45,South Carolina,2022,13,35 TO 64,Female
+45,South Carolina,2022,60,>= 65,Male
+45,South Carolina,2022,21,>= 65,Female
+47,Tennessee,2018,0,0 TO 4,Male
+47,Tennessee,2018,0,0 TO 4,Female
+47,Tennessee,2018,1,5 TO 14,Male
+47,Tennessee,2018,0,5 TO 14,Female
+47,Tennessee,2018,43,15 TO 34,Male
+47,Tennessee,2018,3,15 TO 34,Female
+47,Tennessee,2018,127,35 TO 64,Male
+47,Tennessee,2018,22,35 TO 64,Female
+47,Tennessee,2018,57,>= 65,Male
+47,Tennessee,2018,23,>= 65,Female
+47,Tennessee,2019,0,0 TO 4,Male
+47,Tennessee,2019,0,0 TO 4,Female
+47,Tennessee,2019,2,5 TO 14,Male
+47,Tennessee,2019,1,5 TO 14,Female
+47,Tennessee,2019,44,15 TO 34,Male
+47,Tennessee,2019,2,15 TO 34,Female
+47,Tennessee,2019,135,35 TO 64,Male
+47,Tennessee,2019,23,35 TO 64,Female
+47,Tennessee,2019,58,>= 65,Male
+47,Tennessee,2019,27,>= 65,Female
+47,Tennessee,2020,0,0 TO 4,Male
+47,Tennessee,2020,0,0 TO 4,Female
+47,Tennessee,2020,0,5 TO 14,Male
+47,Tennessee,2020,0,5 TO 14,Female
+47,Tennessee,2020,30,15 TO 34,Male
+47,Tennessee,2020,1,15 TO 34,Female
+47,Tennessee,2020,82,35 TO 64,Male
+47,Tennessee,2020,9,35 TO 64,Female
+47,Tennessee,2020,47,>= 65,Male
+47,Tennessee,2020,7,>= 65,Female
+49,Utah,2018,0,0 TO 4,Male
+49,Utah,2018,0,0 TO 4,Female
+49,Utah,2018,0,5 TO 14,Male
+49,Utah,2018,1,5 TO 14,Female
+49,Utah,2018,6,15 TO 34,Male
+49,Utah,2018,0,15 TO 34,Female
+49,Utah,2018,17,35 TO 64,Male
+49,Utah,2018,5,35 TO 64,Female
+49,Utah,2018,5,>= 65,Male
+49,Utah,2018,8,>= 65,Female
+49,Utah,2019,0,0 TO 4,Male
+49,Utah,2019,0,0 TO 4,Female
+49,Utah,2019,2,5 TO 14,Male
+49,Utah,2019,0,5 TO 14,Female
+49,Utah,2019,2,15 TO 34,Male
+49,Utah,2019,1,15 TO 34,Female
+49,Utah,2019,13,35 TO 64,Male
+49,Utah,2019,2,35 TO 64,Female
+49,Utah,2019,8,>= 65,Male
+49,Utah,2019,1,>= 65,Female
+49,Utah,2020,1,0 TO 4,Male
+49,Utah,2020,0,0 TO 4,Female
+49,Utah,2020,0,5 TO 14,Male
+49,Utah,2020,0,5 TO 14,Female
+49,Utah,2020,9,15 TO 34,Male
+49,Utah,2020,1,15 TO 34,Female
+49,Utah,2020,16,35 TO 64,Male
+49,Utah,2020,5,35 TO 64,Female
+49,Utah,2020,5,>= 65,Male
+49,Utah,2020,4,>= 65,Female
+49,Utah,2021,3,0 TO 4,Male
+49,Utah,2021,0,0 TO 4,Female
+49,Utah,2021,0,5 TO 14,Male
+49,Utah,2021,0,5 TO 14,Female
+49,Utah,2021,5,15 TO 34,Male
+49,Utah,2021,0,15 TO 34,Female
+49,Utah,2021,14,35 TO 64,Male
+49,Utah,2021,4,35 TO 64,Female
+49,Utah,2021,10,>= 65,Male
+49,Utah,2021,10,>= 65,Female
+49,Utah,2022,0,0 TO 4,Male
+49,Utah,2022,0,0 TO 4,Female
+49,Utah,2022,1,5 TO 14,Male
+49,Utah,2022,0,5 TO 14,Female
+49,Utah,2022,3,15 TO 34,Male
+49,Utah,2022,1,15 TO 34,Female
+49,Utah,2022,14,35 TO 64,Male
+49,Utah,2022,5,35 TO 64,Female
+49,Utah,2022,14,>= 65,Male
+49,Utah,2022,5,>= 65,Female
+51,Virginia,2018,2,0 TO 4,Male
+51,Virginia,2018,0,0 TO 4,Female
+51,Virginia,2018,1,5 TO 14,Male
+51,Virginia,2018,1,5 TO 14,Female
+51,Virginia,2018,34,15 TO 34,Male
+51,Virginia,2018,2,15 TO 34,Female
+51,Virginia,2018,71,35 TO 64,Male
+51,Virginia,2018,12,35 TO 64,Female
+51,Virginia,2018,43,>= 65,Male
+51,Virginia,2018,31,>= 65,Female
+51,Virginia,2019,0,0 TO 4,Male
+51,Virginia,2019,1,0 TO 4,Female
+51,Virginia,2019,3,5 TO 14,Male
+51,Virginia,2019,0,5 TO 14,Female
+51,Virginia,2019,21,15 TO 34,Male
+51,Virginia,2019,4,15 TO 34,Female
+51,Virginia,2019,81,35 TO 64,Male
+51,Virginia,2019,19,35 TO 64,Female
+51,Virginia,2019,55,>= 65,Male
+51,Virginia,2019,26,>= 65,Female
+51,Virginia,2020,0,0 TO 4,Male
+51,Virginia,2020,0,0 TO 4,Female
+51,Virginia,2020,0,5 TO 14,Male
+51,Virginia,2020,1,5 TO 14,Female
+51,Virginia,2020,32,15 TO 34,Male
+51,Virginia,2020,1,15 TO 34,Female
+51,Virginia,2020,52,35 TO 64,Male
+51,Virginia,2020,12,35 TO 64,Female
+51,Virginia,2020,47,>= 65,Male
+51,Virginia,2020,18,>= 65,Female
+51,Virginia,2021,2,0 TO 4,Male
+51,Virginia,2021,0,0 TO 4,Female
+51,Virginia,2021,0,5 TO 14,Male
+51,Virginia,2021,1,5 TO 14,Female
+51,Virginia,2021,31,15 TO 34,Male
+51,Virginia,2021,4,15 TO 34,Female
+51,Virginia,2021,67,35 TO 64,Male
+51,Virginia,2021,16,35 TO 64,Female
+51,Virginia,2021,51,>= 65,Male
+51,Virginia,2021,26,>= 65,Female
+51,Virginia,2022,0,0 TO 4,Male
+51,Virginia,2022,0,0 TO 4,Female
+51,Virginia,2022,0,5 TO 14,Male
+51,Virginia,2022,0,5 TO 14,Female
+51,Virginia,2022,36,15 TO 34,Male
+51,Virginia,2022,3,15 TO 34,Female
+51,Virginia,2022,80,35 TO 64,Male
+51,Virginia,2022,17,35 TO 64,Female
+51,Virginia,2022,41,>= 65,Male
+51,Virginia,2022,15,>= 65,Female
+53,Washington,2018,0,0 TO 4,Male
+53,Washington,2018,0,0 TO 4,Female
+53,Washington,2018,0,5 TO 14,Male
+53,Washington,2018,0,5 TO 14,Female
+53,Washington,2018,10,15 TO 34,Male
+53,Washington,2018,2,15 TO 34,Female
+53,Washington,2018,15,35 TO 64,Male
+53,Washington,2018,8,35 TO 64,Female
+53,Washington,2018,19,>= 65,Male
+53,Washington,2018,10,>= 65,Female
+53,Washington,2019,0,0 TO 4,Male
+53,Washington,2019,0,0 TO 4,Female
+53,Washington,2019,0,5 TO 14,Male
+53,Washington,2019,0,5 TO 14,Female
+53,Washington,2019,2,15 TO 34,Male
+53,Washington,2019,1,15 TO 34,Female
+53,Washington,2019,11,35 TO 64,Male
+53,Washington,2019,2,35 TO 64,Female
+53,Washington,2019,8,>= 65,Male
+53,Washington,2019,8,>= 65,Female
+53,Washington,2020,0,0 TO 4,Male
+53,Washington,2020,0,0 TO 4,Female
+53,Washington,2020,0,5 TO 14,Male
+53,Washington,2020,0,5 TO 14,Female
+53,Washington,2020,3,15 TO 34,Male
+53,Washington,2020,1,15 TO 34,Female
+53,Washington,2020,6,35 TO 64,Male
+53,Washington,2020,2,35 TO 64,Female
+53,Washington,2020,14,>= 65,Male
+53,Washington,2020,7,>= 65,Female
+53,Washington,2021,1,0 TO 4,Male
+53,Washington,2021,0,0 TO 4,Female
+53,Washington,2021,0,5 TO 14,Male
+53,Washington,2021,0,5 TO 14,Female
+53,Washington,2021,9,15 TO 34,Male
+53,Washington,2021,2,15 TO 34,Female
+53,Washington,2021,40,35 TO 64,Male
+53,Washington,2021,31,35 TO 64,Female
+53,Washington,2021,132,>= 65,Male
+53,Washington,2021,143,>= 65,Female
+55,Wisconsin,2018,0,0 TO 4,Male
+55,Wisconsin,2018,0,0 TO 4,Female
+55,Wisconsin,2018,1,5 TO 14,Male
+55,Wisconsin,2018,0,5 TO 14,Female
+55,Wisconsin,2018,10,15 TO 34,Male
+55,Wisconsin,2018,1,15 TO 34,Female
+55,Wisconsin,2018,27,35 TO 64,Male
+55,Wisconsin,2018,5,35 TO 64,Female
+55,Wisconsin,2018,21,>= 65,Male
+55,Wisconsin,2018,17,>= 65,Female
+55,Wisconsin,2019,1,0 TO 4,Male
+55,Wisconsin,2019,0,0 TO 4,Female
+55,Wisconsin,2019,0,5 TO 14,Male
+55,Wisconsin,2019,0,5 TO 14,Female
+55,Wisconsin,2019,6,15 TO 34,Male
+55,Wisconsin,2019,0,15 TO 34,Female
+55,Wisconsin,2019,17,35 TO 64,Male
+55,Wisconsin,2019,4,35 TO 64,Female
+55,Wisconsin,2019,17,>= 65,Male
+55,Wisconsin,2019,12,>= 65,Female
+55,Wisconsin,2020,1,0 TO 4,Male
+55,Wisconsin,2020,0,0 TO 4,Female
+55,Wisconsin,2020,0,5 TO 14,Male
+55,Wisconsin,2020,0,5 TO 14,Female
+55,Wisconsin,2020,6,15 TO 34,Male
+55,Wisconsin,2020,2,15 TO 34,Female
+55,Wisconsin,2020,21,35 TO 64,Male
+55,Wisconsin,2020,2,35 TO 64,Female
+55,Wisconsin,2020,19,>= 65,Male
+55,Wisconsin,2020,16,>= 65,Female
+55,Wisconsin,2021,0,0 TO 4,Male
+55,Wisconsin,2021,0,0 TO 4,Female
+55,Wisconsin,2021,0,5 TO 14,Male
+55,Wisconsin,2021,0,5 TO 14,Female
+55,Wisconsin,2021,5,15 TO 34,Male
+55,Wisconsin,2021,0,15 TO 34,Female
+55,Wisconsin,2021,20,35 TO 64,Male
+55,Wisconsin,2021,7,35 TO 64,Female
+55,Wisconsin,2021,18,>= 65,Male
+55,Wisconsin,2021,15,>= 65,Female
+55,Wisconsin,2022,0,0 TO 4,Male
+55,Wisconsin,2022,0,0 TO 4,Female
+55,Wisconsin,2022,0,5 TO 14,Male
+55,Wisconsin,2022,0,5 TO 14,Female
+55,Wisconsin,2022,8,15 TO 34,Male
+55,Wisconsin,2022,0,15 TO 34,Female
+55,Wisconsin,2022,19,35 TO 64,Male
+55,Wisconsin,2022,5,35 TO 64,Female
+55,Wisconsin,2022,23,>= 65,Male
+55,Wisconsin,2022,15,>= 65,Female
