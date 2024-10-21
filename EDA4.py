@@ -76,3 +76,83 @@ print(all_reported_states)
 print(f"\nNumber of states that never reported: {len(never_reported_states)}")
 print(f"Number of states that reported all years: {len(all_reported_states)}")
 print(f"Number of states with partial reporting: {51 - len(never_reported_states) - len(all_reported_states)}")
+
+# Load the population data
+population_df = pd.read_excel('StatePopulations.xlsx')
+
+# Ensure the 'Mortalities' column is numeric, replacing 'Suppressed' with NaN
+df['Mortalities'] = pd.to_numeric(df['Mortalities'].replace({'Suppressed': float('nan'), '0': 0}), errors='coerce')
+
+# Merge the mortality data with population data
+df_merged = pd.merge(df, population_df, on=['State', 'Year'])
+
+# Calculate per capita rate (per 100,000 population)
+df_merged['MortalityRate'] = (df_merged['Mortalities'] / df_merged['Population']) * 100000
+
+# Calculate average mortality rate by state
+avg_mortality_rate = df_merged.groupby('State')['MortalityRate'].mean().sort_values(ascending=False)
+
+print("Top 10 states by average mortality rate (per 100,000 population):")
+print(avg_mortality_rate.head(10))
+
+plt.figure(figsize=(12, 6))
+avg_mortality_rate.head(10).plot(kind='bar')
+plt.title('Average Mortality Rate by State (Top 10)')
+plt.xlabel('State')
+plt.ylabel('Average Mortality Rate (per 100,000 population)')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
+# Select a few states to compare (you can modify this list)
+states_to_compare = ['California', 'Texas', 'Tennessee', 'Georgia', 'Louisiana']
+
+# Create a line plot for these states
+plt.figure(figsize=(12, 6))
+for state in states_to_compare:
+    state_data = df_merged[df_merged['State'] == state]
+    plt.plot(state_data['Year'], state_data['MortalityRate'], marker='o', label=state)
+
+plt.title('Mortality Rate Trends (2018-2021)')
+plt.xlabel('Year')
+plt.ylabel('Mortality Rate (per 100,000 population)')
+plt.legend()
+plt.grid(True)
+plt.show()
+
+# 1. Overall mortality rate for all states
+overall_rate = (df_merged['Mortalities'].sum() / df_merged['Population'].sum()) * 100000
+print(f"1. Overall mortality rate for all states: {overall_rate:.2f} per 100,000 population")
+
+# 2. Overall mortality rate for states that reported all years
+states_reported_all_years = df_merged.groupby('State').filter(lambda x: x['Mortalities'].notna().all())
+all_years_rate = (states_reported_all_years['Mortalities'].sum() / states_reported_all_years['Population'].sum()) * 100000
+print(f"2. Overall mortality rate for states that reported all years: {all_years_rate:.2f} per 100,000 population")
+
+# 3. Overall mortality rate for target states
+target_states = ['California', 'Texas', 'Tennessee', 'Georgia', 'Louisiana']
+target_data = df_merged[df_merged['State'].isin(target_states)]
+target_rate = (target_data['Mortalities'].sum() / target_data['Population'].sum()) * 100000
+print(f"3. Overall mortality rate for target states: {target_rate:.2f} per 100,000 population")
+
+# Visualize the results
+rates = [overall_rate, all_years_rate, target_rate]
+labels = ['All States', 'States Reporting All Years', 'Target States']
+
+plt.figure(figsize=(10, 6))
+plt.bar(labels, rates)
+plt.title('Overall Mortality Rates')
+plt.ylabel('Mortality Rate (per 100,000 population)')
+plt.ylim(0, max(rates) * 1.2)  # Set y-axis limit to 120% of max rate for better visualization
+
+# Add value labels on top of each bar
+for i, v in enumerate(rates):
+    plt.text(i, v, f'{v:.2f}', ha='center', va='bottom')
+
+plt.tight_layout()
+plt.show()
+
+# Print the list of states that reported all years
+states_all_years = states_reported_all_years['State'].unique()
+print("\nStates that reported all years:")
+print(', '.join(states_all_years))
