@@ -266,6 +266,9 @@ Kurtosis =
 | Max          | 418
 
 
+![Mortalities_Heatmpa](https://github.com/user-attachments/assets/61224a81-1df9-4ef9-9669-2f89768c638b)
+![Mortality_Rates_Overall](https://github.com/user-attachments/assets/f2de515b-bff1-4aba-99c0-22b7337b5bd0)
+
 ### By year
 | **Year**  | Total deaths         
 | :----------- | :--------------: 
@@ -274,10 +277,7 @@ Kurtosis =
 | 2020         | 965.0
 | 2021         | 1474.0
 
-
-
-#### By year, per capita
-
+![Mortalities_Time](https://github.com/user-attachments/assets/50bbfc70-6b56-43c2-83db-0b4b9cef03e3)
 
 ### By state
 **Top five states by mean mortality**
@@ -289,7 +289,25 @@ Kurtosis =
 | Nevada         | 125.25
 | California         | 105.50
 
+![Mortalities_State](https://github.com/user-attachments/assets/02cb3df6-e053-4bd9-b510-59c7d6103f17)
+
+
 #### By state, per capita
+**Top five states by mortality rate (per 100,000 population)**
+| **State**  | Mortality rate         
+| :----------- | :--------------: 
+| Arizona         | 3.6
+| Maryland         | .45
+| Arkansas         | .44
+| South Carolina         | .35
+| Alabama         | .34
+| Louisiana         | .33
+| California         | .24
+| Kentucky         | .22
+| Tennessee         | .21
+
+![Mortality_Rates_States](https://github.com/user-attachments/assets/4cf8e850-8d3d-4e12-9ff8-f692bf45ec2a)
+![Mortality_Comparisons](https://github.com/user-attachments/assets/2e9eed76-a8fe-41af-87b1-dc4d375a09fa)
 
 
 #### States that never reported between 2018-2021 (19 + D.C.):
