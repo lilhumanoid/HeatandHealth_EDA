@@ -156,6 +156,13 @@ _Tori is looking for info about why some states didn't report. Did they report e
 | 75%          | 17
 | Max          | 505
 
+Skewness = 
+Kurtosis = 
+
+| Most common age group | Most common state | Percentage of 0 hospitalizations |
+|-------------|-----------------|------------|
+| 0-4 | Arizona | 31.76% |
+
 ### By year
 | **Year**  | Total hospitalizations         
 | :----------- | :--------------: 
@@ -242,6 +249,85 @@ _Tori is looking for info about why some states didn't report. Did they report e
 
 
 
-### EDA4: Mortality
-https://ephtracking.cdc.gov/DataExplorer/?query=2ff6c6bb-b90a-44ab-a73c-0a9c73b1cde7 
-  - Working on it
+### EDA4: Heat-Related Mortality
+| Data source | Location filter | Date range |
+|-------------|-----------------|------------|
+| [Source 4](https://ephtracking.cdc.gov/DataExplorer/?query=2ff6c6bb-b90a-44ab-a73c-0a9c73b1cde7) | U.S. | 2018-2021 |
+
+### Descriptives
+| **Measure**  | Number of deaths         
+| :----------- | :--------------: 
+| Mean         | 38.3
+| St. Dv       | 66.6
+| Min          | 0
+| 25%          | 11.8
+| 50%/median   | 15.5
+| 75%          | 25
+| Max          | 418
+
+
+### By year
+| **Year**  | Total deaths         
+| :----------- | :--------------: 
+| 2018         | 817.0
+| 2019         | 731.0
+| 2020         | 965.0
+| 2021         | 1474.0
+
+
+
+#### By year, per capita
+
+
+### By state
+**Top five states by mean mortality**
+| **State**  | Mean mortalities         
+| :----------- | :--------------: 
+| Arizona         | 297.5
+| Washington         | 170.00
+| Oregon         | 133.00
+| Nevada         | 125.25
+| California         | 105.50
+
+#### By state, per capita
+
+
+#### States that never reported between 2018-2021 (19 + D.C.):
+- Alaska
+- Connecticut
+- Delaware
+- District of Columbia
+- Hawaii
+- Iowa
+- Kansas
+- Maine
+- Massachusetts
+- Minnesota
+- Montana
+- Nebraska
+- New Hampshire
+- North Dakota
+- Rhode Island
+- South Dakota
+- Utah
+- Vermont
+- West Virginia
+- Wyoming
+
+#### States that reported each year from 2018-2021 (14):
+- Alabama
+- Arizona
+- Arkansas
+- California
+- Florida
+- Louisiana
+- Maryland
+- Nevada
+- New York
+- Ohio
+- Pennsylvania
+- Tennessee
+- Texas
+- Virginia
+
+#### Number of states with partial reporting: 17
