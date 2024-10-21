@@ -104,7 +104,6 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-# Select a few states to compare (you can modify this list)
 states_to_compare = ['California', 'Texas', 'Tennessee', 'Georgia', 'Louisiana']
 
 # Create a line plot for these states
@@ -151,8 +150,3 @@ for i, v in enumerate(rates):
 
 plt.tight_layout()
 plt.show()
-
-# Print the list of states that reported all years
-states_all_years = states_reported_all_years['State'].unique()
-print("\nStates that reported all years:")
-print(', '.join(states_all_years))
