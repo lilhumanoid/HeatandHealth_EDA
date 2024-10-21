@@ -82,11 +82,10 @@ These descriptives include raw data for all states across all three years, inclu
 | 75%          | 110
 | Max          | 460
 
-
 Skewness = 2.3
 Kurtosis = 5.2
 
-These descriptives include only states that reported data all three years, which includes: Alabama, Arizona, Arkansas, California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, New Jersey, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, and Wisconsin.
+These descriptives include only states that reported data all three years, including: Alabama, Arizona, Arkansas, California, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Minnesota, New Jersey, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Texas, Virginia, and Wisconsin.
 
 | **Measure**  | Number of deaths         
 | :----------- | :--------------: 
@@ -99,11 +98,8 @@ These descriptives include only states that reported data all three years, which
 | 75%          | 120
 | Max          | 400
 
-
 Skewness = 1.9
 Kurtosis = 3.4
-
-_See "Per_Capita_Worker_Deaths_Analysis.xlsx" for descriptives statistics on each of the above states._
 
 
 ### Comparing the 22 states that reported all three years + Georgia, 2018-2020:
@@ -135,8 +131,6 @@ _See "Per_Capita_Worker_Deaths_Analysis.xlsx" for descriptives statistics on eac
 ![Comparisons_Updated](https://github.com/user-attachments/assets/35241d39-eae1-45c0-96c3-a6ce65f4ab07)
 ![PerCapitaRates_FocusThree](https://github.com/user-attachments/assets/cfa7aeba-a613-4607-92d2-b29fc9656117)
 ![Georgia_TImeSeries_WorkerDeaths](https://github.com/user-attachments/assets/a8513ba8-741c-421a-99ef-f81b828095e5)
-
-_Tori is looking for info about why some states didn't report. Did they report elsewhere?_
 
 
 
@@ -280,7 +274,7 @@ Kurtosis =
 ![Mortalities_Time](https://github.com/user-attachments/assets/50bbfc70-6b56-43c2-83db-0b4b9cef03e3)
 
 ### By state
-**Top five states by mean mortality**
+#### Top five states by mean mortality
 | **State**  | Mean mortalities         
 | :----------- | :--------------: 
 | Arizona         | 297.5
@@ -291,9 +285,7 @@ Kurtosis =
 
 ![Mortalities_State](https://github.com/user-attachments/assets/02cb3df6-e053-4bd9-b510-59c7d6103f17)
 
-
-#### By state, per capita
-**Top five states by mortality rate (per 100,000 population)**
+#### Top five states by mortality rate (per 100,000 population)
 | **State**  | Mortality rate         
 | :----------- | :--------------: 
 | Arizona         | 3.6
@@ -310,7 +302,7 @@ Kurtosis =
 ![Mortality_Comparisons](https://github.com/user-attachments/assets/2e9eed76-a8fe-41af-87b1-dc4d375a09fa)
 
 
-#### States that never reported between 2018-2021 (19 + D.C.):
+### States that never reported between 2018-2021 (19 + D.C.):
 - Alaska
 - Connecticut
 - Delaware
@@ -332,7 +324,7 @@ Kurtosis =
 - West Virginia
 - Wyoming
 
-#### States that reported each year from 2018-2021 (14):
+### States that reported each year from 2018-2021 (14):
 - Alabama
 - Arizona
 - Arkansas
